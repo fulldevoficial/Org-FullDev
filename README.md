@@ -7,7 +7,7 @@ A ideia é oferecer uma visão geral para novos membros, parceiros e colaborador
 ## Documentação básica
 
 1. [História da FullDev](documentacao/doc-basica/historia.md)
-2. [Manifesto](documentacao/doc-basica/manifesto.md)
+2. [O que é a FullDev?](documentacao/doc-basica/manifesto.md)
 3. [Cartilha do Moderador](https://docs.google.com/document/u/0/d/1Efc1rOrpzsbFTUwfEb_Qm4hkM6oYiWd6-7nB7xTVddA/mobilebasic)
 4. [Cartilha do Conselho](https://docs.google.com/document/d/1WeIo4K9adwOIpCtjsUUwD9yYR4mJfh3gNckJyXkH8kA/edit?tab=t.0#heading=h.s53l839phq4u)
 5. [Organograma](https://www.figma.com/design/v3vRWEqqiVjqTK1vpbLpRF/Organograma-FullDev?node-id=0-1&t=3BQjgE0P255Qu7s5-1)
@@ -19,14 +19,14 @@ A ideia é oferecer uma visão geral para novos membros, parceiros e colaborador
 1. [FullDev Games](documentacao/fullDev-Games/readme.md) 
 2. [FullDev School](documentacao/fullDev-School/readme.md) 
 3. [FullDev Links](documentacao/fullDev-Online/readme.md) 
-4. [FullDev Ui](documentacao/fullDev-Ui/readme.md) 
+4. [FullDev Atta](documentacao/fullDev-Atta/readme.md) 
 5. [Grupos de conversasão](#5-grupos-de-conversação) 
 6. [CodeQueens](#6-codequeens) 
 7. [RainbowStack](#7-rainbowstack)
 8. [FullDev Strong](#8-fulldev-strong)
 9. [FullDev MeetUp](documentacao/fullDev-meetup/readme.md)
 10. [FullDev Online](documentacao/fullDev-Online/readme.md)
-
+11. [FullDev Meruem](documentacao/FullDev%20Meruem/README.md)
 
 ### 5. Grupos de Conversação
 A raiz da comunidade.  
