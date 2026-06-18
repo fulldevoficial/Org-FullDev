@@ -18,15 +18,15 @@ A ideia é oferecer uma visão geral para novos membros, parceiros e colaborador
 
 1. [FullDev Games](documentacao/fullDev-Games/readme.md) 
 2. [FullDev School](documentacao/fullDev-School/readme.md) 
-3. [FullDev Links](documentacao/fullDev-Online/readme.md) 
-4. [FullDev Atta](documentacao/fullDev-Atta/readme.md) 
+3. [FullDev Links](documentacao/fullDev-Links/readme.md) 
+4. [FullDev Atta](documentacao/projetos%20inativos/fullDev-Atta/readme.md) 
 5. [Grupos de conversasão](#5-grupos-de-conversação) 
 6. [CodeQueens](#6-codequeens) 
 7. [RainbowStack](#7-rainbowstack)
 8. [FullDev Strong](#8-fulldev-strong)
-9. [FullDev MeetUp](documentacao/fullDev-meetup/readme.md)
-10. [FullDev Online](documentacao/fullDev-Online/readme.md)
-11. [FullDev Meruem](documentacao/FullDev%20Meruem/README.md)
+9. [FullDev MeetUp](documentacao/projetos%20inativos/fullDev-meetup/readme.md)
+10. [FullDev Online](documentacao/projetos%20inativos/fullDev-Online/readme.md)
+11. [FullDev Meruem](documentacao/projetos%20inativos/FullDev%20Meruem/README.md)
 
 ### 5. Grupos de Conversação
 A raiz da comunidade.  
