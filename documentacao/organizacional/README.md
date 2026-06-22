@@ -69,16 +69,17 @@ Este conjunto de documentos consolida uma proposta de arquitetura organizacional
 
 1. [Manifesto, Missao, Visao e Valores](manifesto-missao-visao-valores.md)
 2. [Estrutura Organizacional e Organograma](estrutura-organizacional.md)
-3. [Modelo de Governanca](governanca.md)
-4. [Codigo de Conduta](codigo-de-conduta.md)
-5. [Manual dos Lideres Regionais](manual-lideres-regionais.md)
-6. [Processo de Criacao de Nucleos Regionais](criacao-de-nucleos-regionais.md)
-7. [Portfolio Atual e Status dos Projetos](portfolio-atual.md)
-8. [FullDev School e Projeto de Extensao PUC Minas](fulldev-school-projeto-extensao.md)
-9. [Roteiro de Perguntas e Decisoes](roteiro-perguntas-decisoes.md)
-10. [Politicas de Eventos, Parcerias e Patrocinio](politicas-eventos-parcerias-patrocinio.md)
-11. [Playbook Operacional e Comunicacao Interna](playbook-operacional-comunicacao.md)
-12. [Tomada de Decisao e Escalabilidade](decisao-escalabilidade.md)
+3. [Equipe FullDev Central](equipe-fulldev-central.md)
+4. [Modelo de Governanca](governanca.md)
+5. [Codigo de Conduta](codigo-de-conduta.md)
+6. [Manual dos Lideres Regionais](manual-lideres-regionais.md)
+7. [Processo de Criacao de Nucleos Regionais](criacao-de-nucleos-regionais.md)
+8. [Portfolio Atual e Status dos Projetos](portfolio-atual.md)
+9. [FullDev School e Projeto de Extensao PUC Minas](fulldev-school-projeto-extensao.md)
+10. [Roteiro de Perguntas e Decisoes](roteiro-perguntas-decisoes.md)
+11. [Politicas de Eventos, Parcerias e Patrocinio](politicas-eventos-parcerias-patrocinio.md)
+12. [Playbook Operacional e Comunicacao Interna](playbook-operacional-comunicacao.md)
+13. [Tomada de Decisao e Escalabilidade](decisao-escalabilidade.md)
 
 ## Recomendacao central
 
