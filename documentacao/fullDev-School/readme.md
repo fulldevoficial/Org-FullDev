@@ -1,127 +1,94 @@
-# Documento de Projeto – FullDev School
+# FullDev School
 
-## Big Idea
-Seremos uma instituição de ensino **livre e gratuita**, inspirada em modelos como a [ADA Tech](https://ada.tech/oportunidades).  
+A FullDev School e a frente educacional da FullDev Central.
 
----
+Este projeto tem como base o documento institucional DOCX do projeto de extensao, que apresenta a FullDev School como uma plataforma colaborativa de formacao e inclusao tecnologica em parceria com a PUC Minas.
 
-## 1. Conceito inicial
-Criar uma vertente educacional dentro da Comunidade FullDev, onde **membros convidados** que já possuem cursos, ou expressem a vontade de ensinar, ministrem **aulas assincronas e abertas** para a comunidade.  
+## Proposta
 
-- Ao final da aula, o instrutor pode fazer **pitch do seu curso privado** (se houver).  
-- As aulas ficam gravadas e publicadas no **YouTube oficial da FullDev**.  
-- O conteúdo também será disponibilizado no **site da comunidade** como repositório permanente.  
+A FullDev School busca democratizar o acesso a educacao tecnologica pratica, gratuita e colaborativa, aproximando comunidade, universidade e mercado.
 
----
+O projeto oferece trilhas praticas, oficinas, desafios tecnicos, hackathons, projetos colaborativos e conteudos educacionais com curadoria academica.
 
-## 2. Objetivos
-- Oferecer aprendizado prático e GRATÚITO para a comunidade.  
-- Dar visibilidade a instrutores e parceiros da FullDev.  
-- Criar ponte com **profissionais e empresas de educação**.  
-- Estabelecer ciclo sustentável:  
-  - Comunidade ganha aulas gratúitas.
-  - Instrutores ganham vitrine.
-  - FullDev fortalece o ecossistema de tecnologia.
+## Objetivo geral
 
----
+Promover formacao pratica, colaborativa e acessivel em tecnologia por meio da integracao entre universidade, comunidade e mercado, contribuindo para inclusao digital, cidadania tecnologica, desenvolvimento profissional e fortalecimento da extensao universitaria.
 
-## 3. Organização Geral
-- **Ano letivo**: dividido em 2 semestres (6 meses cada).
-- **Carga horária:** 12 a 16 semanas de aulas por semestre.
-    **Formato:**
-        - **Assíncrono:** gravações no Youtube.
-        - **Síncrono:** aulas ao vivo no discord
-        - **Repositório:** todo o material será armazenado no site da FullDev
+## Publico atendido
 
----
+- Estudantes do ensino medio interessados em tecnologia.
+- Universitarios das areas de tecnologia e inovacao.
+- Desenvolvedores iniciantes.
+- Pessoas em transicao de carreira.
+- Membros da comunidade FullDev interessados em experiencia pratica.
+- Pessoas que buscam portfolio, networking e vivencia colaborativa.
 
-## 4. Trilha pedagógica (EXEMPLO)
-Cada semestre tem disciplinas (módulos) com ementa curta, professor voluntário e avaliação leve (projeto prático, quiz ou desafio).
+## Como funciona
 
-### 1º Período – Front-End
+1. Membros da comunidade FullDev e estudantes interessados atuam como extensionistas, instrutores, mentores, monitores ou colaboradores tecnicos.
+2. As propostas de cursos, oficinas e trilhas passam por planejamento pedagogico.
+3. Professores vinculados a PUC Minas acompanham e validam os conteudos.
+4. As atividades sao executadas em formato presencial, remoto ou hibrido.
+5. Participantes desenvolvem projetos praticos, desafios e solucoes colaborativas.
+6. Ao final dos ciclos, feedbacks e indicadores orientam melhorias.
 
-- Fundamentos de HTML, CSS e JavaScript
-- Git e GitHub
-- Framework (React e Angular)
-- Consumo de APIs
-- Boas práticas de código e acessibilidade
-- Projeto Final: construir uma aplicação web responsiva consumindo API (ex: catálogo de filmes, lista de tarefas colaborativa).
+## Areas de conteudo
 
-### 2º Período – Back-End
+- Desenvolvimento web.
+- Desenvolvimento mobile.
+- UX/UI Design.
+- Inteligencia artificial.
+- Computacao em nuvem.
+- Programacao.
+- Cultura open source.
+- Versionamento de codigo.
+- Metodologias ageis.
+- Cidadania digital.
 
-- Fundamentos de lógica para servidores
-- Node.js (Express) ou Java/Spring Boot
-- Bancos de dados SQL e NoSQL
-- Autenticação e autorização
-- Deploy (Heroku, Vercel, Docker básico)
-- Projeto Final: API REST completa (ex: sistema de usuários, CRUD com autenticação JWT).
+## Metodologia
 
-### 3º Período – UI/UX
+A metodologia combina:
 
-- Fundamentos de design digital
-- Princípios de usabilidade e acessibilidade
-- Ferramentas: Figma, Design Systems
-- Prototipagem de interfaces
-- Testes de usabilidade com a comunidade
-- Projeto Final: prototipar uma aplicação completa (ex: app de comunidade, dashboard de análise de dados).
+- Aprendizagem colaborativa.
+- Metodologias ativas.
+- Cultura maker.
+- Extensao universitaria dialogica.
+- Aprendizagem baseada em projetos.
 
-### 4º Período – Mobile
+## Resultados esperados
 
-- Fundamentos de desenvolvimento mobile
-- Flutter ou React Native
-- Consumo de APIs e persistência local
-- Publicação em loja (conceito e prática)
-- Projeto Final: app mobile funcional com integração real (ex: lista de compras colaborativa, app de estudo).
+Para participantes:
 
-### 5º Período – DevOps e Cloud
+- Competencias tecnicas.
+- Habilidades socioemocionais.
+- Portfolio.
+- Networking.
+- Aproximacao com o mercado.
+- Cidadania digital.
 
-- Fundamentos de CI/CD
-- Docker, GitHub Actions, Kubernetes (noções)
-- Cloud AWS/Azure/GCP (básico)
-- Monitoramento e boas práticas de segurança
-- Projeto Final: pipeline completo de deploy de um projeto web.
+Para extensionistas:
 
-### 6º Período – Projeto Integrador (TCC)
+- Experiencia em ensino e extensao.
+- Lideranca.
+- Comunicacao.
+- Trabalho em equipe.
+- Protagonismo estudantil.
 
-- Atividade: equipes formadas entre alunos dos períodos anteriores.
-- Desafio: criar um produto mínimo viável (MVP) do zero, aplicando todo o conhecimento aprendido.
-- Entrega: apresentação em live (estilo hackathon), publicada no YouTube da FullDev.
-- Pitch: cada grupo pode convidar empresas, recrutadores ou potenciais clientes para assistir.
+Para a universidade e sociedade:
 
----
+- Fortalecimento da extensao universitaria.
+- Democratizacao da educacao tecnologica.
+- Inclusao digital.
+- Fortalecimento do ecossistema de inovacao.
+- Formacao de novos profissionais.
 
-## 5. Operacional
+## Governanca
 
-### 5.1 Estrutura Pedagógica
-- **Coordenação Pedagógica**  
-  - Define grade anual/semestral.  
-  - Estrutura trilhas (Fundamentos, Front, Back, DevOps, etc.).  
-  - Convida professores voluntários.
+A FullDev School nao e um nucleo regional. Ela e uma frente educacional da FullDev Central.
 
-- **Professores/Instrutores**  
-  - Ministram módulos.  
-  - Seguem material validado pela coordenação.
+A direcao da School fica com Lucas Pedro + equipe, em alinhamento com a FullDev Central, PUC Minas, professores, extensionistas, instrutores e parceiros.
 
-### 5.2 Estrutura de Gestão
-- **Coordenação Geral do Projeto (Pablo):**  
-  - Define calendário, dias e horários.  
-  - Garante a execução do programa.  
+## Documentacao complementar
 
-- **Gestão de Comunidade/Alunos:**  
-  - Organiza grupos (Discord).  
-  - Envia cronograma, materiais e links.  
-  - Recolhe feedback dos alunos.
-
-- **Moderadores de Aula (Hosts – Matheus, Vic):**  
-  - Fazem abertura, apresentam professor e controlam dúvidas.  
-  - Mantêm organização da transmissão.  
-
----
-
-## 6. Arquitetura da Transmissão
-- Live no YouTube (stream do Discord).  
-- Respostas no final da live.  
-- Leitura de **super chat** (monetização).  
-- Enquetes durante a aula para interatividade.  
-- Certificado de participação para instrutores e membros.  
-- Instrutor pode fazer **pitch final** do seu curso.  
+- [Documento organizacional da FullDev School](../organizacional/fulldev-school-projeto-extensao.md)
+- [Equipe FullDev Central](../organizacional/equipe-fulldev-central.md)
