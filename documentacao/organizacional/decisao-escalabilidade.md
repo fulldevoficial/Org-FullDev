@@ -1,4 +1,4 @@
-# Tomada de Decisao e Escalabilidade Nacional
+# Tomada de Decisao e Escalabilidade
 
 ## Processo de tomada de decisao
 
@@ -6,9 +6,9 @@
 
 - Operacional: pode ser tomada pela frente responsavel.
 - Regional: pode ser tomada pelo lider regional.
-- Nacional: precisa da Operacao Nacional.
-- Estrutural: precisa do Conselho Nacional.
-- Sensivel: precisa de avaliacao especifica do Conselho Nacional.
+- Central: precisa da Operacao Central.
+- Estrutural: precisa do Conselho Central.
+- Sensivel: precisa de avaliacao especifica do Conselho Central.
 
 ### Fluxo simples
 
@@ -29,7 +29,7 @@
 - Tem responsavel claro?
 - Pode ser desfeita se der errado?
 
-## Plano de escalabilidade nacional
+## Plano de escalabilidade
 
 ### Fase 1: Fundacao
 
@@ -41,12 +41,12 @@ Entregas:
 - FullDev School como frente prioritaria.
 - Pagina de links como porta de entrada oficial.
 - Codigo de conduta versionado.
-- Conselho Nacional formalizado.
+- Conselho Central formalizado.
 - Manual de lideres.
 - Politica de eventos e parcerias.
 - Kit de nucleo regional.
 - Indicadores minimos.
-- Calendario nacional.
+- Calendario central.
 
 ### Fase 2: Pilotos regionais
 
@@ -71,9 +71,9 @@ Entregas:
 - Treinamento padronizado.
 - Parcerias locais recorrentes.
 - Biblioteca de conteudos.
-- Eventos regionais conectados ao calendario nacional.
+- Eventos regionais conectados ao calendario central.
 
-### Fase 4: Ecossistema nacional
+### Fase 4: Ecossistema brasileiro
 
 Objetivo: integrar comunidade, escola, plataforma, nucleos regionais e parceiros.
 
@@ -81,10 +81,10 @@ Entregas:
 
 - FullDev School estruturada.
 - FullDev Platform conectada aos nucleos regionais.
-- Banco nacional de oportunidades.
-- Programa nacional de patrocinio.
+- Banco central de oportunidades.
+- Programa central de patrocinio.
 - Conferencia FullDev.
-- Relatorio anual de impacto.
+- Relatorio de impacto de impacto.
 
 ## Riscos estrategicos
 
@@ -107,7 +107,7 @@ Entregas:
 
 ## Motivo da recomendacao
 
-Escala nacional exige repetibilidade. Sem fases, a FullDev corre risco de abrir muitas frentes, perder consistencia e voltar ao gargalo inicial.
+Escala ampla exige repetibilidade. Sem fases, a FullDev corre risco de abrir muitas frentes, perder consistencia e voltar ao gargalo inicial.
 
 ## Beneficios, riscos e trade-offs
 

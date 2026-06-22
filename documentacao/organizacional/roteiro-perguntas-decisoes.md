@@ -16,7 +16,7 @@ Antes de qualquer regra, a FullDev precisa fechar a ideia central que vai susten
 
 A proposta definida pela FullDev e que ela seja uma comunidade unica com subdivisoes internas, conectada por visao, cultura e governanca compartilhadas. Todo membro entra pela comunidade principal e, a partir dela, pode se conectar a iniciativas oficiais, projetos ativos e nucleos regionais aprovados.
 
-Esse modelo ja existe em comunidades de tecnologia em escala. O Google Developer Groups organiza grupos locais sob uma camada central de identidade, regras e diretrizes, enquanto cada chapter local executa sua propria agenda dentro desses limites. A Associacao Python Brasil segue uma logica mais formal: uma associacao sem fins lucrativos sustenta grupos regionais, conferencia nacional, estatuto e codigo de conduta compartilhados.
+Esse modelo ja existe em comunidades de tecnologia em escala. O Google Developer Groups organiza grupos locais sob uma camada central de identidade, regras e diretrizes, enquanto cada chapter local executa sua propria agenda dentro desses limites. A Associacao Python Brasil segue uma logica mais formal: uma associacao sem fins lucrativos sustenta grupos regionais, conferencia principal, estatuto e codigo de conduta compartilhados.
 
 Referencias de inspiracao:
 
@@ -35,10 +35,10 @@ FullDev Central
 |-- Nucleos Regionais
 |-- Produtos da Central
 |-- Empresas Parceiras
-`-- Eventos Nacionais
+`-- Eventos Centrais
 ```
 
-No momento atual, apenas FullDev School e pagina de links estao ativas. Nucleos regionais e eventos nacionais devem ser tratados como arquitetura futura.
+No momento atual, apenas FullDev School e pagina de links estao ativas. Nucleos regionais e eventos centrais devem ser tratados como arquitetura futura.
 
 Nucleos Regionais previstos:
 
@@ -47,7 +47,6 @@ Nucleos Regionais previstos:
 - Nordeste.
 - Norte.
 - Sul.
-- Futuros nucleos.
 
 Definicao de FullDev Central:
 
@@ -55,9 +54,9 @@ Definicao de FullDev Central:
 - Cultura.
 - Codigo de conduta.
 - Branding.
-- Redes sociais nacionais.
+- Redes sociais centrais.
 - Newsletter.
-- Parcerias e patrocinios nacionais.
+- Parcerias e patrocinios centrais.
 - Programa de lideres.
 
 ## Perguntas centrais
@@ -79,7 +78,7 @@ Respostas registradas:
 - Existe tema absolutamente inegociavel? Sim. A FullDev defende conteudo livre e gratuito.
 - A FullDev quer ser rede de comunidades ou comunidade unica com subdivisoes internas? Comunidade unica com subdivisoes internas.
 - Qual proposito une todos os nucleos? Defesa do conteudo livre e gratuito. De devs para devs.
-- Nucleos regionais coexistem com as mesmas regras nacionais? Sim. Todo nucleo regional segue cultura, marca, codigo de conduta e governanca da FullDev Central.
+- Nucleos regionais coexistem com as mesmas regras centrais? Sim. Todo nucleo regional segue cultura, marca, codigo de conduta e governanca da FullDev Central.
 - A FullDev School e um nucleo como os outros? Nao. E um produto diferente da FullDev Central.
 - Como uma decisao conjunta funciona na pratica? A FullDev usa um hub central no WhatsApp com os lideres.
 - O que acontece quando um nucleo toma uma decisao fora da propria competencia? Deve ser criado um manual com sistema de strikes.
@@ -109,33 +108,33 @@ Categorias sugeridas:
 
 | Area de decisao | Quem decide | Observacoes |
 | --- | --- | --- |
-| Codigo de conduta | Central decide sozinha | Regra nacional, sem adaptacao local. |
+| Codigo de conduta | Central decide sozinha | Regra central, sem adaptacao local. |
 | Regras de comportamento | Central decide sozinha | Define condutas esperadas e proibidas em todos os espacos FullDev. |
-| Definicao de violacao de conduta | Central decide sozinha | Violacoes devem estar descritas no Codigo de Conduta nacional. |
+| Definicao de violacao de conduta | Central decide sozinha | Violacoes devem estar descritas no Codigo de Conduta central. |
 | Julgamento de violacoes de conduta | Central decide sozinha | Moderacao pode registrar e conter casos simples; casos sensiveis ou com lideres devem ir para a Central/Conselho. |
 | Identidade visual | Central decide sozinha | Manual de marca, logo, cores, tipografia, templates e padroes visuais. |
 | Branding e uso de marca | Central decide sozinha | Inclui logos, nomes, redes oficiais e materiais publicos. |
 | Logo, cores e uso da marca em materiais de nucleo | Central decide sozinha | Nucleos podem aplicar templates aprovados, mas nao alterar logo, cores ou identidade da FullDev. |
-| Redes sociais nacionais | Central decide sozinha | Canais nacionais ficam sob governanca da Central. |
+| Redes sociais centrais | Central decide sozinha | Canais centrais ficam sob governanca da Central. |
 | Criacao de rede social de nucleo | Decisao conjunta | Nucleo pode propor perfil local, mas Central aprova nome, bio, identidade, responsaveis e acessos. |
 | Conteudo em redes sociais de nucleo | Nucleo decide sozinho | Pode publicar agenda, fotos e conteudos locais dentro dos templates, tom de voz e regras da marca. |
 | Acesso a perfis oficiais | Central decide sozinha | Central define quem tem acesso, nivel de permissao, recuperacao e transferencia em troca de lideranca. |
 | Postagens sensiveis ou institucionais | Central decide sozinha | Comunicados sobre crise, patrocinio, posicionamento institucional ou conduta precisam de aprovacao da Central. |
-| Newsletter nacional | Central decide sozinha | Conteudo local pode ser sugerido por nucleos. |
-| Comunicacao institucional | Central decide sozinha | Posicionamentos oficiais, comunicados publicos, imprensa, crise, notas e anuncios nacionais ficam com a Central. |
-| Parcerias nacionais | Central decide sozinha | Inclui patrocinadores e apoiadores de alcance nacional. |
-| Patrocinios nacionais | Central decide sozinha | Qualquer apoio financeiro, estrutural ou institucional com alcance nacional. |
+| Newsletter central | Central decide sozinha | Conteudo local pode ser sugerido por nucleos. |
+| Comunicacao institucional | Central decide sozinha | Posicionamentos oficiais, comunicados publicos, imprensa, crise, notas e anuncios centrais ficam com a Central. |
+| Parcerias centrais | Central decide sozinha | Inclui patrocinadores e apoiadores de alcance amplo. |
+| Patrocinios centrais | Central decide sozinha | Qualquer apoio financeiro, estrutural ou institucional com alcance amplo. |
 | Parcerias locais | Decisao conjunta | Nucleo propoe, Central valida riscos e contrapartidas. |
 | Patrocinios locais | Decisao conjunta | Nucleo pode prospectar, mas Central aprova valores, contrapartidas, uso de marca e comunicacao. |
 | Busca de patrocinador proprio por nucleo | Decisao conjunta | Nucleo pode buscar e iniciar conversa, mas nao pode fechar, anunciar ou assinar sem aprovacao da Central. |
-| Conflito com patrocinador nacional | Central decide sozinha | Patrocinio local nao pode conflitar com patrocinador nacional, exclusividade, categoria protegida ou posicionamento institucional. |
+| Conflito com patrocinador central | Central decide sozinha | Patrocinio local nao pode conflitar com patrocinador central, exclusividade, categoria protegida ou posicionamento institucional. |
 | Uso de marca por parceiro | Central decide sozinha | Parceiro nao pode usar marca FullDev sem aprovacao formal da Central. |
 | Compartilhamento de dados ou leads | Central decide sozinha | Dados de membros nao podem ser vendidos; qualquer coleta exige aprovacao, transparencia e consentimento. |
 | Eventos locais gratuitos | Nucleo decide sozinho | Desde que siga codigo de conduta, marca e diretrizes. |
 | Eventos pagos | Decisao conjunta | Central aprova proposta, preco, contrapartidas e comunicacao. |
 | Cobranca de ingresso | Decisao conjunta | Nucleo nao pode cobrar ingresso sem aprovacao da Central; deve justificar custo, destino do valor e regras de transparencia. |
 | Reembolso de custos de evento | Decisao conjunta | Quando houver taxa para cobrir local, coffee break ou materiais, a Central deve aprovar antes da divulgacao. |
-| Uso de fundos nacionais | Central decide sozinha | Recursos nacionais, patrocinio nacional e verbas institucionais sao geridos pela Central. |
+| Uso de fundos centrais | Central decide sozinha | Recursos centrais, patrocinio central e verbas centrais sao geridos pela Central. |
 | Uso de fundos locais | Decisao conjunta | Nucleo pode propor uso de recursos locais, mas Central aprova destino, limite, comprovacao e prestacao de contas. |
 | Prestacao de contas | Central decide sozinha | Central define formato, prazos, comprovantes e regras de transparencia. |
 | Reembolso para voluntarios | Decisao conjunta | Precisa de aprovacao previa, comprovante e registro. |
@@ -144,7 +143,7 @@ Categorias sugeridas:
 | FullDev School | Central decide sozinha | Produto/frente educacional da Central, nao nucleo auto-organizado. |
 | Conteudos da FullDev School | Decisao conjunta | Central governa; PUC/parceiros academicos podem validar pedagogicamente. |
 | Conteudo local de nucleo | Nucleo decide sozinho | Pode criar posts, talks e encontros locais dentro das diretrizes de marca, conduta e conteudo gratuito. |
-| Programacao de evento local gratuito | Nucleo decide sozinho | Nucleo define tema, agenda e palestrantes, desde que siga diretrizes nacionais. |
+| Programacao de evento local gratuito | Nucleo decide sozinho | Nucleo define tema, agenda e palestrantes, desde que siga diretrizes centrais. |
 | Programacao de evento pago ou com patrocinador | Decisao conjunta | Central aprova proposta, patrocinadores, comunicacao e contrapartidas. |
 | Conteudo educacional oficial | Decisao conjunta | Quando publicado como FullDev School ou trilha oficial, precisa de governanca da Central e curadoria pedagogica quando aplicavel. |
 | Conteudos sensiveis ou posicionamento publico | Central decide sozinha | Temas com risco reputacional, politico, juridico, crise ou conduta precisam de aprovacao da Central. |
@@ -185,9 +184,9 @@ Decisao:
 - Pode ser executada como atividade pontual do Nucleo Sudeste.
 - Deve ter responsavel, agenda e seguir as regras do nucleo regional e da Central.
 
-#### Exemplo 4 — Conteudo nacional de Frontend
+#### Exemplo 4 — Conteudo central de Frontend
 
-Membros de varias regioes querem produzir uma serie nacional de conteudos de Frontend.
+Membros de varias regioes querem produzir uma serie central de conteudos de Frontend.
 
 Decisao:
 
@@ -217,14 +216,14 @@ Decisao:
 - A Central valida uso de marca, contrapartidas, comunicacao publica e possiveis conflitos.
 - Se aprovado, o nucleo pode operar os eventos localmente.
 
-#### Exemplo 7 — Apoio nacional de empresa
+#### Exemplo 7 — Apoio central de empresa
 
 Uma empresa quer apoiar a FullDev School em varias regioes.
 
 Decisao:
 
 - Central decide.
-- Como envolve produto educacional, marca nacional e possivel patrocinio, nao pode ser fechado por nucleo.
+- Como envolve produto educacional, marca central e possivel patrocinio, nao pode ser fechado por nucleo.
 - Devem ser definidos apoio, contrapartidas, comunicacao, dados, prazo e responsavel pelo relacionamento.
 
 #### Exemplo 8 — Decisao fora de competencia
@@ -437,12 +436,12 @@ Pendencias:
 
 ### 4. Que tipo de governanca a FullDev precisa agora?
 
-Contexto: a governanca atual historica fala em fundador, conselho, moderacao e membros. Para a fase atual, talvez isso baste com ajustes. Para escala nacional, nao basta.
+Contexto: a governanca atual historica fala em fundador, conselho, moderacao e membros. Para a fase atual, talvez isso baste com ajustes. Para escala ampla, nao basta.
 
 Perguntas:
 
 - Qual e o papel do fundador daqui para frente?
-- O Conselho Nacional existe formalmente?
+- O Conselho Central existe formalmente?
 - Quem faz parte dele?
 - Como decisoes sao registradas?
 - Quais decisoes precisam de votacao?
@@ -461,7 +460,7 @@ Contexto: descentralizar sempre cria tensao entre padrao e liberdade. Poucas reg
 
 Perguntas:
 
-- Quais regras sao nacionais e obrigatorias?
+- Quais regras sao centrais e obrigatorias?
 - Quais temas podem ser adaptados localmente?
 - Qual e o minimo de documentacao que todo nucleo regional deve manter?
 - Como a FullDev vai treinar lideres novos?
@@ -573,4 +572,4 @@ Ao final da discussao deste documento, a FullDev deve ter clareza sobre:
 - O que e nucleo regional.
 - O que e parceiro.
 - O que pode ser decidido localmente.
-- O que precisa de aprovacao nacional.
+- O que precisa de aprovacao central.

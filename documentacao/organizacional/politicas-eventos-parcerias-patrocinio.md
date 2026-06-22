@@ -20,7 +20,7 @@
 - Deve haver comunicacao clara sobre local, horario, vagas, gravacao e patrocinadores.
 - Eventos presenciais devem ter plano minimo de check-in, seguranca e acessibilidade.
 - Palestrantes devem aceitar diretrizes de conduta.
-- Eventos pagos precisam de aprovacao nacional.
+- Eventos pagos precisam de aprovacao central.
 - Cobranca de ingresso precisa de aprovacao da FullDev Central antes da divulgacao.
 - Taxas para reembolso de custos, como local, coffee break ou materiais, tambem precisam de aprovacao previa.
 - Eventos pagos devem informar claramente preco, destino do valor, politica de reembolso e eventuais patrocinadores.
@@ -58,7 +58,7 @@
 - Transparencia sobre interesses comerciais.
 - Ausencia de praticas abusivas.
 - Respeito a dados e privacidade.
-- Nao exclusividade sem aprovacao nacional.
+- Nao exclusividade sem aprovacao central.
 
 ### Contrapartidas possiveis
 
@@ -80,7 +80,7 @@ Patrocinio deve sustentar a comunidade, nao capturar sua independencia.
 ### Categorias
 
 - Local: apoia evento ou nucleo regional especifico.
-- Nacional: apoia iniciativas amplas da FullDev Central.
+- Central: apoia iniciativas amplas da FullDev Central.
 - Educacional: apoia aulas, trilhas ou bolsas.
 - Produto/plataforma: apoia ferramentas ou infraestrutura.
 - Conferencia: apoia evento principal anual.
@@ -92,22 +92,22 @@ Patrocinio deve sustentar a comunidade, nao capturar sua independencia.
 - Patrocinador nao pode interferir em moderacao, conteudo editorial ou decisoes de comunidade.
 - Leads e dados de membros nao podem ser vendidos.
 - Sorteios e promocoes devem ter regras claras.
-- Patrocinios com exclusividade exigem Conselho Nacional.
+- Patrocinios com exclusividade exigem Conselho Central.
 
 ## Quem decide
 
-- Parcerias nacionais: FullDev Central decide.
-- Patrocinios nacionais: FullDev Central decide.
+- Parcerias centrais: FullDev Central decide.
+- Patrocinios centrais: FullDev Central decide.
 - Parcerias locais: decisao conjunta; nucleo propoe e Central aprova.
 - Patrocinios locais: decisao conjunta; nucleo pode prospectar, mas Central aprova valores, contrapartidas, uso de marca e comunicacao.
 - Busca de patrocinador proprio por nucleo: nucleo pode iniciar conversa, mas nao pode fechar, anunciar ou assinar sem aprovacao da Central.
-- Conflito com patrocinador nacional: FullDev Central decide. Patrocinio local nao pode conflitar com patrocinador nacional, exclusividade, categoria protegida ou posicionamento institucional.
+- Conflito com patrocinador central: FullDev Central decide. Patrocinio local nao pode conflitar com patrocinador central, exclusividade, categoria protegida ou posicionamento institucional.
 - Uso de marca por parceiro: FullDev Central decide.
 - Compartilhamento de dados ou leads: FullDev Central decide, com regra padrao de nao venda de dados de membros.
 
 ## Uso de fundos
 
-- Fundos nacionais sao geridos pela FullDev Central.
+- Fundos centrais sao geridos pela FullDev Central.
 - Fundos locais podem ser propostos pelo nucleo, mas o uso precisa de aprovacao da Central.
 - Todo uso de recurso deve ter finalidade clara, valor estimado, responsavel e comprovante.
 - Reembolso para voluntarios precisa de aprovacao previa e comprovacao.

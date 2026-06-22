@@ -6,8 +6,8 @@ Este e o modelo de longo prazo. No momento atual, a FullDev deve operar com foco
 
 ```text
 FullDev Central
-|-- Conselho Nacional
-|-- Operacao Nacional
+|-- Conselho Central
+|-- Operacao Central
 |   |-- Comunidade
 |   |-- Comunicacao
 |   |-- Eventos
@@ -20,8 +20,7 @@ FullDev Central
 |   |-- FullDev Centro-Oeste
 |   |-- FullDev Nordeste
 |   |-- FullDev Norte
-|   |-- FullDev Sul
-|   `-- Futuros nucleos
+|   `-- FullDev Sul
 |-- Produtos da Central
 |   `-- FullDev School
 |-- Projetos e Subcomunidades
@@ -36,14 +35,14 @@ FullDev Central
 
 ## Nivel 1: FullDev Central
 
-A FullDev Central e responsavel por visao estrategica, cultura, codigo de conduta, branding, redes sociais nacionais, newsletter, parcerias e patrocinios nacionais e programa de lideres.
+A FullDev Central e responsavel por visao estrategica, cultura, codigo de conduta, branding, redes sociais centrais, newsletter, parcerias e patrocinios centrais e programa de lideres.
 
 Tambem e responsavel por diretrizes, site, relacionamento institucional, governanca e aprovacao de nucleos regionais.
 
-### Papeis nacionais recomendados
+### Papeis centrais recomendados
 
 - Fundador: guardiao da origem, cultura e visao de longo prazo.
-- Conselho Nacional: define diretrizes, aprova decisoes estruturais e supervisiona governanca.
+- Conselho Central: define diretrizes, aprova decisoes estruturais e supervisiona governanca.
 - Direcao de Comunidade: modera processos, acompanha saude dos grupos e experiencia dos membros.
 - Direcao de Nucleos Regionais: acompanha lideres regionais, aprova nucleos regionais e padroniza operacao local.
 - Direcao de Eventos: define padroes de meetups, workshops, hackathons e conferencia.
@@ -55,7 +54,7 @@ Tambem e responsavel por diretrizes, site, relacionamento institucional, governa
 
 ## Nivel 2: Nucleos Regionais
 
-Nucleos Regionais sao representacoes oficiais da FullDev em uma regiao. Eles nao sao comunidades independentes e nao possuem propriedade sobre marca, canais, membros ou patrocinadores nacionais.
+Nucleos Regionais sao representacoes oficiais da FullDev em uma regiao. Eles nao sao comunidades independentes e nao possuem propriedade sobre marca, canais, membros ou patrocinadores centrais.
 
 Nucleos Regionais previstos:
 
@@ -64,7 +63,6 @@ Nucleos Regionais previstos:
 - Nordeste.
 - Norte.
 - Sul.
-- Futuros nucleos.
 
 Cada nucleo regional deve ter:
 
@@ -75,6 +73,8 @@ Cada nucleo regional deve ter:
 - Responsavel por eventos.
 - Responsavel por parcerias locais.
 - Responsavel por operacoes, quando houver volume.
+
+Nota: a mesma pessoa pode acumular mais de uma funcao no nucleo regional, principalmente em fases iniciais ou quando o time local ainda for pequeno. O importante e que as responsabilidades estejam claras e registradas.
 
 ## FullDev School
 
@@ -90,7 +90,7 @@ Cuida de grupos, moderacao, acolhimento, engajamento, rituais e encaminhamento d
 
 ### Comunicacao
 
-Cuida de divulgacao local, redes sociais locais autorizadas, cobertura de eventos, fotos, posts e alinhamento com marca nacional.
+Cuida de divulgacao local, redes sociais locais autorizadas, cobertura de eventos, fotos, posts e alinhamento com marca central.
 
 ### Eventos
 
@@ -111,11 +111,11 @@ Cuida de check-in, lista de presenca, brindes, materiais, cronograma, pos-evento
 - Temas de meetups locais.
 - Convite a palestrantes locais.
 - Formato de encontros pequenos.
-- Parcerias locais sem exclusividade e sem conflito com diretrizes nacionais.
+- Parcerias locais sem exclusividade e sem conflito com diretrizes centrais.
 - Comunicacao local dentro dos templates da marca.
 - Talks, desafios e oficinas locais, quando nao conflitarem com diretrizes da FullDev School e quando estiverem vinculadas a um nucleo regional aprovado.
 
-### Precisam de aprovacao nacional
+### Precisam de aprovacao central
 
 - Uso de marca em contratos, produtos ou campanhas pagas.
 - Patrocinios com valores, contrapartidas formais ou exclusividade.
@@ -123,11 +123,11 @@ Cuida de check-in, lista de presenca, brindes, materiais, cronograma, pos-evento
 - Eventos com cobranca, grande porte ou risco reputacional.
 - Alteracoes de codigo de conduta.
 - Posicionamentos publicos sensiveis.
-- Parcerias nacionais.
+- Parcerias centrais.
 
 ## Motivo da recomendacao
 
-A estrutura atual registrada no repositorio e simples demais para escala nacional. O modelo de comunidade unica com Nucleos Regionais reduz gargalos, cria liderancas locais e preserva controle de marca e cultura.
+A estrutura atual registrada no repositorio e simples demais para escala ampla. O modelo de comunidade unica com Nucleos Regionais reduz gargalos, cria liderancas locais e preserva controle de marca e cultura.
 
 Como a operacao atual esta concentrada na FullDev School, a recomendacao pratica e consolidar a frente educacional antes de abrir muitos nucleos regionais. Nucleos devem nascer para amplificar operacoes ja validadas, nao para compensar falta de processo.
 

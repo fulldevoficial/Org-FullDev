@@ -23,7 +23,7 @@ Campos minimos:
 - Parceiros envolvidos.
 - Conteudos publicados.
 - Incidentes ou riscos.
-- Necessidades de apoio nacional.
+- Necessidades de apoio central.
 - Proximas atividades.
 
 ### Onboarding de voluntarios
@@ -45,11 +45,11 @@ Campos minimos:
 
 ### Canais recomendados
 
-- Canal nacional de lideres.
+- Canal central de lideres.
 - Canal por nucleo regional e, quando necessario, por grupo interno.
 - Canal por frente operacional.
 - Repositorio de documentos.
-- Calendario nacional.
+- Calendario central.
 - Registro de decisoes.
 
 ### Regras de comunicacao
@@ -57,13 +57,13 @@ Campos minimos:
 - Decisoes importantes devem ser registradas.
 - Demandas urgentes devem ter responsavel e prazo.
 - Discussao estrategica nao deve ficar perdida em grupo informal.
-- Comunicados nacionais devem ser centralizados.
+- Comunicados centrais devem ser centralizados.
 - Capitulo pode comunicar atividades locais, respeitando marca e templates.
 
 ### Cadencia
 
 - Atualizacao semanal local.
-- Alinhamento quinzenal nacional.
+- Alinhamento quinzenal central.
 - Relatorio mensal.
 - Retrospectiva trimestral.
 
@@ -81,7 +81,7 @@ Campos minimos:
 ## Comunicacao institucional
 
 - Comunicacao institucional e responsabilidade da FullDev Central.
-- Inclui posicionamentos oficiais, comunicados publicos, imprensa, crise, notas, anuncios nacionais, patrocinadores nacionais e temas sensiveis.
+- Inclui posicionamentos oficiais, comunicados publicos, imprensa, crise, notas, anuncios centrais, patrocinadores centrais e temas sensiveis.
 - Nucleos podem fazer comunicacao local operacional, como agenda, fotos, agradecimentos e chamadas de evento, desde que usem templates e regras da marca.
 - Nucleo nao deve publicar posicionamento institucional em nome da FullDev sem aprovacao da Central.
 
@@ -99,13 +99,13 @@ Campos minimos:
 ### Regras
 
 - Capitulo deve usar nomenclatura padrao: FullDev + regiao.
-- Logos e templates devem seguir guia nacional.
-- Comunicados sensiveis devem passar pela Comunicacao Nacional.
+- Logos e templates devem seguir guia central.
+- Comunicados sensiveis devem passar pela Comunicacao Central.
 - Parcerias pagas devem ser identificadas.
 
 ## Redes sociais
 
-- Redes sociais nacionais sao responsabilidade da FullDev Central.
+- Redes sociais centrais sao responsabilidade da FullDev Central.
 - Criacao de rede social de nucleo e decisao conjunta: o nucleo propoe, a Central aprova.
 - A Central deve aprovar nome, bio, identidade visual, responsaveis e acessos.
 - Conteudos locais podem ser publicados pelo nucleo dentro dos templates, tom de voz e regras da marca.

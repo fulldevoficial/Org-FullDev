@@ -13,7 +13,7 @@ A FullDev é uma comunidade criada por desenvolvedores para desenvolvedores, com
 - Use a documentação básica para entender a origem, a cultura e a proposta inicial da comunidade.
 - Use a documentação organizacional como referência estratégica atual para governança, expansão, papéis, processos e tomada de decisão.
 - Use os documentos de projetos para consultar iniciativas ativas, propostas em validação e registros históricos.
-- Quando houver divergência entre documentos antigos e a documentação organizacional, trate o ponto como decisão a ser validada pelo Conselho Nacional.
+- Quando houver divergência entre documentos antigos e a documentação organizacional, trate o ponto como decisão a ser validada pelo Conselho Central.
 
 ## Documentação principal
 
@@ -39,7 +39,7 @@ A FullDev é uma comunidade criada por desenvolvedores para desenvolvedores, com
 10. [Roteiro de Perguntas e Decisões](documentacao/organizacional/roteiro-perguntas-decisoes.md)
 11. [Políticas de Eventos, Parcerias e Patrocínio](documentacao/organizacional/politicas-eventos-parcerias-patrocinio.md)
 12. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
-13. [Tomada de Decisão e Escalabilidade Nacional](documentacao/organizacional/decisao-escalabilidade.md)
+13. [Tomada de Decisão e Escalabilidade](documentacao/organizacional/decisao-escalabilidade.md)
 
 ## Status dos projetos
 

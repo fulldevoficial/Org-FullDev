@@ -155,7 +155,7 @@ Antes de anunciar qualquer apoio, recomenda-se registrar:
 
 ## Recomendacao estrategica
 
-A FullDev School deve ser a prova de maturidade institucional da FullDev. Se a School operar bem com PUC Minas, extensionistas, conteudo, parceiros e indicadores, ela vira a base para expansao nacional da marca.
+A FullDev School deve ser a prova de maturidade institucional da FullDev. Se a School operar bem com PUC Minas, extensionistas, conteudo, parceiros e indicadores, ela vira a base para expansao em escala da marca.
 
 ## Beneficios, riscos e trade-offs
 

@@ -55,7 +55,7 @@ A moderacao local ou lideranca de nucleo pode:
 - Orientar membros em casos simples.
 - Encaminhar o caso para a Central.
 
-Devem ser julgados pela FullDev Central ou Conselho Nacional:
+Devem ser julgados pela FullDev Central ou Conselho Central:
 
 - Casos envolvendo lideres, parceiros ou patrocinadores.
 - Casos de assedio, discriminacao, ameaca, exposicao de dados ou abuso de poder.
@@ -65,10 +65,10 @@ Devem ser julgados pela FullDev Central ou Conselho Nacional:
 
 ## Processo de denuncia
 
-1. Membro reporta o incidente a moderacao local ou nacional.
+1. Membro reporta o incidente a moderacao local ou central.
 2. Moderacao registra data, local, envolvidos, evidencias e impacto.
 3. Caso simples e resolvido localmente.
-4. Caso sensivel e escalado ao Conselho Nacional.
+4. Caso sensivel e escalado ao Conselho Central.
 5. Decisao e comunicada aos envolvidos no limite da privacidade.
 6. Incidente entra em registro interno para acompanhamento.
 
@@ -78,7 +78,7 @@ Lideres e moderadores tem responsabilidade maior. Abuso de poder, favorecimento,
 
 ## Motivo da recomendacao
 
-A FullDev ja declara intolerancia a discriminacao, mas precisa de um codigo versionado e aplicavel. Crescimento nacional aumenta risco de incidentes, e incidentes sem processo viram crise reputacional.
+A FullDev ja declara intolerancia a discriminacao, mas precisa de um codigo versionado e aplicavel. Crescimento em escala aumenta risco de incidentes, e incidentes sem processo viram crise reputacional.
 
 ## Beneficios, riscos e trade-offs
 

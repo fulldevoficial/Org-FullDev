@@ -1,12 +1,12 @@
 # Documentacao Organizacional FullDev
 
-Este conjunto de documentos consolida uma proposta de arquitetura organizacional para a FullDev crescer como ecossistema nacional sem depender exclusivamente do fundador ou do nucleo principal para operar.
+Este conjunto de documentos consolida uma proposta de arquitetura organizacional para a FullDev crescer como ecossistema brasileiro sem depender exclusivamente do fundador ou do nucleo principal para operar.
 
 ## Como usar esta documentacao
 
 - Use os documentos historicos do repositorio como contexto de origem, iniciativas e operacao anterior.
 - Use esta pasta como proposta de direcao estrategica atual para governanca, expansao regional e padronizacao.
-- Quando houver divergencia entre documentos antigos e esta proposta, trate a divergencia como ponto a ser decidido pelo Conselho Nacional.
+- Quando houver divergencia entre documentos antigos e esta proposta, trate a divergencia como ponto a ser decidido pelo Conselho Central.
 
 ## Diagnostico do repositorio atual
 
@@ -50,9 +50,9 @@ Este conjunto de documentos consolida uma proposta de arquitetura organizacional
 ### Inconsistencias e divergencias
 
 - O repositorio descreve a FullDev como comunidade gratuita e tambem como futura startup/plataforma social. Essas duas dimensoes podem coexistir, mas precisam de fronteiras claras entre comunidade, produto, educacao e monetizacao.
-- A documentacao antiga concentra poder decisorio no fundador e no conselho. A visao atual pede descentralizacao regional com governanca nacional.
+- A documentacao antiga concentra poder decisorio no fundador e no conselho. A visao atual pede descentralizacao regional com governanca central.
 - Existem "grupos regionais" e grupos por assunto citados no historico, mas sem modelo operacional claro; a proposta atual usa apenas Nucleos Regionais vinculados a FullDev Central.
-- O BHAG antigo fala em ser a maior escola de programacao gratuita do Brasil. A visao atual e mais ampla: ecossistema nacional com comunidade, escola, plataforma, Nucleos Regionais, eventos, parceiros e conferencia.
+- O BHAG antigo fala em ser a maior escola de programacao gratuita do Brasil. A visao atual e mais ampla: ecossistema brasileiro com comunidade, escola, plataforma, Nucleos Regionais, eventos, parceiros e conferencia.
 - Muitas iniciativas estao apenas nomeadas, sem dono, criterios de sucesso ou processo de continuidade.
 
 ### Lacunas principais
@@ -63,7 +63,7 @@ Este conjunto de documentos consolida uma proposta de arquitetura organizacional
 - Falta politica de eventos, parcerias, patrocinio e uso da marca.
 - Falta processo de tomada de decisao e matriz de autonomia.
 - Falta playbook operacional replicavel para meetups, workshops, comunicacao e moderacao.
-- Falta plano de escalabilidade nacional com indicadores e fases.
+- Falta plano de escalabilidade com indicadores e fases.
 
 ## Documentos desta pasta
 
@@ -78,10 +78,10 @@ Este conjunto de documentos consolida uma proposta de arquitetura organizacional
 9. [Roteiro de Perguntas e Decisoes](roteiro-perguntas-decisoes.md)
 10. [Politicas de Eventos, Parcerias e Patrocinio](politicas-eventos-parcerias-patrocinio.md)
 11. [Playbook Operacional e Comunicacao Interna](playbook-operacional-comunicacao.md)
-12. [Tomada de Decisao e Escalabilidade Nacional](decisao-escalabilidade.md)
+12. [Tomada de Decisao e Escalabilidade](decisao-escalabilidade.md)
 
 ## Recomendacao central
 
 A FullDev deve operar como uma comunidade unica com subdivisoes internas: uma FullDev Central forte, com governanca simples, Nucleos Regionais e frentes operacionais replicaveis.
 
-O objetivo nao e criar franquias, filiais empresariais ou grupos independentes. O objetivo e criar uma comunidade nacional com liderancas locais, autonomia controlada e padroes comuns de cultura, seguranca, marca e qualidade.
+O objetivo nao e criar franquias, filiais empresariais ou grupos independentes. O objetivo e criar uma comunidade brasileira com liderancas locais, autonomia controlada e padroes comuns de cultura, seguranca, marca e qualidade.

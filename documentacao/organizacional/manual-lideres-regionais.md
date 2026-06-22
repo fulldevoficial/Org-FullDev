@@ -4,7 +4,7 @@
 
 O lider regional e o representante oficial da FullDev em uma regiao. Ele nao e dono do nucleo regional, dos canais, dos membros, dos patrocinadores ou da marca.
 
-Sua funcao e criar contexto para a comunidade local crescer com qualidade, seguranca e alinhamento nacional.
+Sua funcao e criar contexto para a comunidade local crescer com qualidade, seguranca e alinhamento central.
 
 ## Responsabilidades
 
@@ -12,7 +12,7 @@ Sua funcao e criar contexto para a comunidade local crescer com qualidade, segur
 - Formar e acompanhar o time local.
 - Planejar eventos e atividades.
 - Garantir cumprimento do codigo de conduta.
-- Manter comunicacao com a Operacao Nacional.
+- Manter comunicacao com a Operacao Central.
 - Enviar relatorio mensal.
 - Zelar pela marca FullDev.
 - Desenvolver novas liderancas.
@@ -21,12 +21,12 @@ Sua funcao e criar contexto para a comunidade local crescer com qualidade, segur
 
 ## Processo de candidatura
 
-1. Abertura de chamada nacional ou indicacao interna.
+1. Abertura de chamada central ou indicacao interna.
 2. Preenchimento de formulario com historico, motivacao, disponibilidade e proposta regional.
 3. Validacao de participacao ativa na comunidade.
 4. Entrevista com Direcao de Nucleos Regionais.
 5. Checagem de alinhamento cultural.
-6. Aprovacao pelo Conselho Nacional.
+6. Aprovacao pelo Conselho Central.
 7. Periodo de experiencia de 90 dias.
 8. Nomeacao oficial.
 
@@ -47,7 +47,7 @@ Sua funcao e criar contexto para a comunidade local crescer com qualidade, segur
 - Reconhecimento oficial como lider FullDev.
 - Acesso a materiais, templates e treinamentos.
 - Prioridade em oportunidades de representacao.
-- Networking com empresas, comunidades e lideres nacionais.
+- Networking com empresas, comunidades e lideres centrais.
 - Possibilidade de liderar eventos e projetos.
 - Certificado ou carta de recomendacao, quando aplicavel.
 
@@ -71,11 +71,11 @@ O lider pode montar sua propria equipe de organizacao, com autonomia operacional
 Lideres regionais nao podem:
 
 - Firmar contratos em nome da FullDev sem aprovacao.
-- Criar regras locais conflitantes com regras nacionais.
+- Criar regras locais conflitantes com regras centrais.
 - Usar a marca para venda pessoal sem autorizacao.
 - Remover membros por motivacao pessoal.
 - Prometer beneficios, empregos, certificacoes ou patrocinios nao aprovados.
-- Criar canais oficiais sem alinhamento nacional.
+- Criar canais oficiais sem alinhamento central.
 
 ## Avaliacao periodica
 
@@ -98,7 +98,7 @@ A cada trimestre, avaliar:
 - Conflito de interesse nao declarado.
 - Abuso de poder.
 - Falta de prestacao de contas.
-- Reincidencia em desalinhamento com diretrizes nacionais.
+- Reincidencia em desalinhamento com diretrizes centrais.
 
 ## Plano de sucessao
 

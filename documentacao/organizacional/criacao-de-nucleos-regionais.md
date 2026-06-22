@@ -2,7 +2,7 @@
 
 ## Definicao de nucleo
 
-Um nucleo FullDev e uma representacao regional oficial vinculada a FullDev Central. Ele opera atividades regionais e segue marca, codigo de conduta, governanca e regras nacionais.
+Um nucleo FullDev e uma representacao regional oficial vinculada a FullDev Central. Ele opera atividades regionais e segue marca, codigo de conduta, governanca e regras centrais.
 
 - Nucleo Regional: organizado por macrorregiao, como Sudeste, Centro-Oeste, Nordeste, Norte e Sul.
 
@@ -14,7 +14,9 @@ Um nucleo FullDev e uma representacao regional oficial vinculada a FullDev Centr
 - Plano de 90 dias.
 - Canal de comunicacao definido.
 - Compromisso com relatorio mensal.
-- Aceite formal das diretrizes nacionais.
+- Aceite formal das diretrizes centrais.
+
+Nota: uma mesma pessoa pode assumir mais de uma funcao dentro do nucleo regional, especialmente no inicio da operacao. Essa acumulacao deve ser registrada para evitar ambiguidade sobre quem responde por cada responsabilidade.
 
 ## Quem pode propor um nucleo
 
@@ -70,7 +72,7 @@ Proponente envia:
 
 ### 4. Entrevista
 
-Conversa com Direcao de Nucleos Regionais e, quando necessario, Conselho Nacional.
+Conversa com Direcao de Nucleos Regionais e, quando necessario, Conselho Central.
 
 ### 5. Aprovacao piloto
 
@@ -90,7 +92,7 @@ Entregas esperadas:
 
 ### 7. Oficializacao
 
-Ao final do piloto, o Conselho Nacional decide:
+Ao final do piloto, o Conselho Central decide:
 
 - Oficializar.
 - Prorrogar piloto.
@@ -107,7 +109,7 @@ Todo nucleo aprovado deve receber:
 - Modelo de relatorio mensal.
 - Codigo de conduta.
 - Politica de parcerias.
-- Canal com lideres nacionais.
+- Canal com lideres centrais.
 
 ## Encerramento de nucleo
 
@@ -148,7 +150,7 @@ Nucleos Regionais sem processo tendem a virar grupos paralelos, com padroes dife
 
 ## Beneficios, riscos e trade-offs
 
-- Beneficio: permite expansao nacional controlada.
+- Beneficio: permite expansao em escala controlada.
 - Beneficio: facilita replicar qualidade.
 - Risco: regioes promissoras podem demorar a abrir.
 - Trade-off: piloto de 90 dias da autonomia suficiente para testar sem compromisso irreversivel.

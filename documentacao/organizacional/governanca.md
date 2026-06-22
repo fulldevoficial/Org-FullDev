@@ -12,16 +12,16 @@
 
 ## Instancias de governanca
 
-### Conselho Nacional
+### Conselho Central
 
 Responsavel por decisoes estruturais:
 
-- Estrategia nacional.
+- Estrategia de escala.
 - Nomeacao e remocao de lideres regionais.
 - Aprovacao de nucleos regionais.
 - Codigo de conduta.
 - Grandes parcerias.
-- Patrocinios nacionais.
+- Patrocinios centrais.
 - Conflitos sensiveis.
 - Uso da marca.
 
@@ -33,19 +33,19 @@ Responsavel por:
 - Cultura.
 - Codigo de conduta.
 - Branding.
-- Redes sociais nacionais.
+- Redes sociais centrais.
 - Newsletter.
-- Parcerias e patrocinios nacionais.
+- Parcerias e patrocinios centrais.
 - Programa de lideres.
 - Diretrizes oficiais.
 - Relacionamento institucional.
 - Aprovacao e acompanhamento de nucleos.
 
-### Operacao Nacional
+### Operacao Central
 
 Responsavel por executar diretrizes:
 
-- Calendario nacional.
+- Calendario central.
 - Templates.
 - Processos.
 - Treinamentos.
@@ -61,7 +61,7 @@ Responsavel por operar o nucleo regional:
 - Engajamento regional.
 - Relatorio mensal.
 - Recrutamento de voluntarios locais.
-- Cumprimento das regras nacionais.
+- Cumprimento das regras centrais.
 
 ### Frentes Locais
 
@@ -71,21 +71,21 @@ Responsaveis por executar tarefas especificas de comunidade, comunicacao, evento
 
 | Decisao | Responsavel | Aprovador | Consultado | Informado |
 | --- | --- | --- | --- | --- |
-| Abrir nucleo regional | Direcao de Nucleos Regionais | Conselho Nacional | Lider proposto | Comunidade |
-| Meetup local pequeno | Lider regional | Lider regional | Eventos nacional | Conselho Nacional |
-| Patrocinio local | Lider regional | Parcerias nacional | Conselho Nacional | Comunidade local |
-| Evento pago | Eventos local | Conselho Nacional | Parcerias, Operacoes | Comunidade |
-| Uso de marca | Comunicacao local | Comunicacao nacional | Conselho Nacional | Lider regional |
-| Remocao de lider | Direcao de Nucleos Regionais | Conselho Nacional | Lider envolvido | Time local |
-| Codigo de conduta | Conselho Nacional | Conselho Nacional | Lideres regionais | Todos |
+| Abrir nucleo regional | Direcao de Nucleos Regionais | Conselho Central | Lider proposto | Comunidade |
+| Meetup local pequeno | Lider regional | Lider regional | Eventos central | Conselho Central |
+| Patrocinio local | Lider regional | Parcerias central | Conselho Central | Comunidade local |
+| Evento pago | Eventos local | Conselho Central | Parcerias, Operacoes | Comunidade |
+| Uso de marca | Comunicacao local | Comunicacao central | Conselho Central | Lider regional |
+| Remocao de lider | Direcao de Nucleos Regionais | Conselho Central | Lider envolvido | Time local |
+| Codigo de conduta | Conselho Central | Conselho Central | Lideres regionais | Todos |
 
 ## Ritmos de gestao
 
 - Semanal local: lider regional e frentes operacionais.
-- Quinzenal nacional: direcoes nacionais e lideres regionais.
+- Quinzenal central: direcoes centrais e lideres regionais.
 - Mensal: relatorio de nucleos regionais.
 - Trimestral: avaliacao de liderancas e saude dos nucleos regionais.
-- Anual: revisao estrategica nacional.
+- Anual: revisao estrategica central.
 
 ## Canal de decisao conjunta
 
