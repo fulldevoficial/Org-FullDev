@@ -14,7 +14,7 @@ Se este conteudo for exportado para Word, atualize o sumario pelo proprio editor
 
 Antes de qualquer regra, a FullDev precisa fechar a ideia central que vai sustentar todo o resto.
 
-A proposta definida pela FullDev e que ela seja uma comunidade unica com subdivisoes internas, conectada por visao, cultura e governanca compartilhadas. Todo membro entra pela comunidade principal e, a partir dela, pode se conectar a nucleos regionais e grupos tematicos internos.
+A proposta definida pela FullDev e que ela seja uma comunidade unica com subdivisoes internas, conectada por visao, cultura e governanca compartilhadas. Todo membro entra pela comunidade principal e, a partir dela, pode se conectar a iniciativas oficiais, projetos ativos e nucleos regionais aprovados.
 
 Esse modelo ja existe em comunidades de tecnologia em escala. O Google Developer Groups organiza grupos locais sob uma camada central de identidade, regras e diretrizes, enquanto cada chapter local executa sua propria agenda dentro desses limites. A Associacao Python Brasil segue uma logica mais formal: uma associacao sem fins lucrativos sustenta grupos regionais, conferencia nacional, estatuto e codigo de conduta compartilhados.
 
@@ -33,32 +33,21 @@ FullDev Central
 |-- FullDev School
 |-- Pagina de Links
 |-- Nucleos Regionais
-|-- Grupos Tematicos Internos
-|-- Programa de Embaixadores
 |-- Produtos da Central
 |-- Empresas Parceiras
 `-- Eventos Nacionais
 ```
 
-No momento atual, apenas FullDev School e pagina de links estao ativas. Nucleos regionais, grupos tematicos internos e eventos nacionais devem ser tratados como arquitetura futura.
+No momento atual, apenas FullDev School e pagina de links estao ativas. Nucleos regionais e eventos nacionais devem ser tratados como arquitetura futura.
 
 Nucleos Regionais previstos:
 
-- Rio de Janeiro.
-- Minas Gerais.
-- Sao Paulo.
-- Parana.
+- Sudeste.
+- Centro-Oeste.
+- Nordeste.
+- Norte.
+- Sul.
 - Futuros nucleos.
-
-Grupos Tematicos Internos previstos:
-
-- Frontend.
-- Backend.
-- IA.
-- Design.
-- Futuros grupos.
-
-Observacao: nao existem nucleos tematicos separados. Todos os grupos tematicos pertencem a algum nucleo regional ou a uma estrutura operacional da FullDev Central.
 
 Definicao de FullDev Central:
 
@@ -75,7 +64,7 @@ Definicao de FullDev Central:
 
 ### 1. O que significa ser FullDev?
 
-Contexto: antes de abrir nucleos regionais, embaixadores ou parcerias, a FullDev precisa definir o que e inegociavel.
+Contexto: antes de abrir nucleos regionais ou parcerias, a FullDev precisa definir o que e inegociavel.
 
 Perguntas:
 
@@ -90,7 +79,7 @@ Respostas registradas:
 - Existe tema absolutamente inegociavel? Sim. A FullDev defende conteudo livre e gratuito.
 - A FullDev quer ser rede de comunidades ou comunidade unica com subdivisoes internas? Comunidade unica com subdivisoes internas.
 - Qual proposito une todos os nucleos? Defesa do conteudo livre e gratuito. De devs para devs.
-- Nucleos regionais e grupos tematicos internos coexistem com as mesmas regras? Nao existem nucleos tematicos separados; grupos tematicos pertencem a algum nucleo regional.
+- Nucleos regionais coexistem com as mesmas regras nacionais? Sim. Todo nucleo regional segue cultura, marca, codigo de conduta e governanca da FullDev Central.
 - A FullDev School e um nucleo como os outros? Nao. E um produto diferente da FullDev Central.
 - Como uma decisao conjunta funciona na pratica? A FullDev usa um hub central no WhatsApp com os lideres.
 - O que acontece quando um nucleo toma uma decisao fora da propria competencia? Deve ser criado um manual com sistema de strikes.
@@ -152,7 +141,6 @@ Categorias sugeridas:
 | Reembolso para voluntarios | Decisao conjunta | Precisa de aprovacao previa, comprovante e registro. |
 | Abertura de novo nucleo regional | Central decide sozinha | Proposta pode vir de influenciadores ou Membros PRO; Central avalia e aprova fase de nucleo em formacao. |
 | Encerramento de nucleo regional | Central decide sozinha | Central avalia inatividade, tenta reativacao e decide encerramento; membros permanecem na FullDev Central. |
-| Criacao de grupo tematico interno | Decisao conjunta | Deve estar vinculado a nucleo regional ou estrutura da Central. |
 | FullDev School | Central decide sozinha | Produto/frente educacional da Central, nao nucleo auto-organizado. |
 | Conteudos da FullDev School | Decisao conjunta | Central governa; PUC/parceiros academicos podem validar pedagogicamente. |
 | Conteudo local de nucleo | Nucleo decide sozinho | Pode criar posts, talks e encontros locais dentro das diretrizes de marca, conduta e conteudo gratuito. |
@@ -166,9 +154,9 @@ Categorias sugeridas:
 
 ### Exemplos concretos
 
-#### Exemplo 1 — Evento gratuito no Nucleo Parana
+#### Exemplo 1 — Evento gratuito no Nucleo Sul
 
-O Nucleo Parana quer organizar um meetup gratuito sobre carreira para devs iniciantes.
+O Nucleo Sul quer organizar um meetup gratuito sobre carreira para devs iniciantes.
 
 Decisao:
 
@@ -176,9 +164,9 @@ Decisao:
 - Deve seguir codigo de conduta, usar identidade visual aprovada e comunicar a Central no hub de lideres.
 - Se houver parceiro local oferecendo espaco, a Central deve ser informada.
 
-#### Exemplo 2 — Evento pago em Sao Paulo
+#### Exemplo 2 — Evento pago no Nucleo Sudeste
 
-O Nucleo Sao Paulo quer fazer um workshop presencial pago de React.
+O Nucleo Sudeste quer fazer um workshop presencial pago de React.
 
 Decisao:
 
@@ -187,25 +175,25 @@ Decisao:
 - A Central aprova preco, comunicacao, uso da marca, contrapartidas e regras de inscricao.
 - O evento precisa deixar claro se e FullDev, parceiro ou acao mista.
 
-#### Exemplo 3 — Grupo de IA dentro do Nucleo Minas Gerais
+#### Exemplo 3 — Oficina de IA dentro do Nucleo Sudeste
 
-Membros do Nucleo Minas Gerais querem criar um grupo interno de IA.
-
-Decisao:
-
-- Nao vira um nucleo tematico separado.
-- Pode ser criado como grupo tematico interno vinculado ao Nucleo Minas Gerais.
-- Deve ter um responsavel tematico e seguir as regras do nucleo regional e da Central.
-
-#### Exemplo 4 — Grupo de Frontend nacional
-
-Membros de varias regioes querem um grupo de Frontend com alcance nacional.
+Membros do Nucleo Sudeste querem organizar uma oficina de IA.
 
 Decisao:
 
-- A Central precisa avaliar se isso sera um grupo interno nacional, uma trilha da FullDev School ou uma acao temporaria.
-- Nao deve ser tratado como nucleo independente.
-- Se virar grupo interno nacional, precisa de responsavel, objetivo, regras e canal definido.
+- Nao vira estrutura permanente nem nucleo separado.
+- Pode ser executada como atividade pontual do Nucleo Sudeste.
+- Deve ter responsavel, agenda e seguir as regras do nucleo regional e da Central.
+
+#### Exemplo 4 — Conteudo nacional de Frontend
+
+Membros de varias regioes querem produzir uma serie nacional de conteudos de Frontend.
+
+Decisao:
+
+- A Central precisa avaliar se isso sera uma trilha da FullDev School, uma campanha de conteudo ou uma acao temporaria.
+- Nao deve ser tratado como estrutura permanente nem nucleo independente.
+- Se aprovado, precisa de responsavel, objetivo, cronograma e canal definido.
 
 #### Exemplo 5 — Conteudo da FullDev School com PUC Minas
 
@@ -220,7 +208,7 @@ Decisao:
 
 #### Exemplo 6 — Parceria local com coworking
 
-O Nucleo Rio de Janeiro recebe oferta de um coworking para sediar encontros mensais.
+O Nucleo Sudeste recebe oferta de um coworking para sediar encontros mensais.
 
 Decisao:
 
@@ -252,7 +240,7 @@ Decisao:
 
 #### Exemplo 9 — Lider quer sair
 
-O lider do Nucleo Rio de Janeiro avisa que nao pode continuar.
+O lider do Nucleo Sudeste avisa que nao pode continuar.
 
 Decisao:
 
@@ -263,7 +251,7 @@ Decisao:
 
 #### Exemplo 10 — Nucleo sem atividade por 6 meses
 
-O Nucleo Parana fica seis meses sem interacao relevante.
+O Nucleo Sul fica seis meses sem interacao relevante.
 
 Decisao:
 
@@ -495,7 +483,8 @@ Perguntas:
 - Quem governa a trilha pedagogica?
 - Quem aprova instrutores e extensionistas?
 - Como a PUC Minas participa das decisoes?
-- Como parceiros como HostGator e Asaas entram sem transformar a School em espaco comercial?
+- Como parceiros como HostGator entram na FullDev School sem transformar a School em espaco comercial?
+- Como um eventual apoio da Asaas a FullDev School deve ser negociado sem confundir apoio a eventos com apoio educacional?
 - Como medir impacto educacional e impacto de carreira?
 
 Espaco para resposta:
@@ -523,26 +512,7 @@ Espaco para resposta:
 
 ```
 
-### 8. Qual e o papel dos embaixadores?
-
-Contexto: embaixadores permitem aumentar capilaridade sem abrir nucleos regionais formais antes da hora.
-
-Perguntas:
-
-- Embaixador representa a FullDev oficialmente ou apenas apoia divulgacao?
-- Embaixador pode organizar evento?
-- Embaixador pode falar com empresas?
-- Quais beneficios um embaixador recebe?
-- Como embaixadores sao avaliados?
-- Como um embaixador pode virar lider regional?
-
-Espaco para resposta:
-
-```text
-
-```
-
-### 9. O que deve ser medido?
+### 8. O que deve ser medido?
 
 Contexto: comunidades crescem melhor quando medem impacto, nao so numero bruto de membros.
 
@@ -601,7 +571,6 @@ Ao final da discussao deste documento, a FullDev deve ter clareza sobre:
 - O que e projeto ativo.
 - O que e iniciativa historica.
 - O que e nucleo regional.
-- O que e embaixador.
 - O que e parceiro.
 - O que pode ser decidido localmente.
 - O que precisa de aprovacao nacional.

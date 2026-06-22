@@ -24,7 +24,7 @@
 - Beneficia membros?
 - Preserva cultura?
 - Reduz dependencia de pessoas especificas?
-- Pode ser repetida por outros nucleos regionais ou grupos internos?
+- Pode ser repetida por outros nucleos regionais?
 - Protege marca e seguranca?
 - Tem responsavel claro?
 - Pode ser desfeita se der errado?
@@ -44,7 +44,7 @@ Entregas:
 - Conselho Nacional formalizado.
 - Manual de lideres.
 - Politica de eventos e parcerias.
-- Kit de nucleo regional e grupos internos.
+- Kit de nucleo regional.
 - Indicadores minimos.
 - Calendario nacional.
 
@@ -68,7 +68,6 @@ Objetivo: abrir novos nucleos regionais com base no modelo testado.
 Entregas:
 
 - Chamadas semestrais para lideres.
-- Programa de embaixadores.
 - Treinamento padronizado.
 - Parcerias locais recorrentes.
 - Biblioteca de conteudos.
@@ -76,12 +75,12 @@ Entregas:
 
 ### Fase 4: Ecossistema nacional
 
-Objetivo: integrar comunidade, escola, plataforma, nucleos regionais, grupos internos e parceiros.
+Objetivo: integrar comunidade, escola, plataforma, nucleos regionais e parceiros.
 
 Entregas:
 
 - FullDev School estruturada.
-- FullDev Platform conectada aos nucleos regionais e grupos internos.
+- FullDev Platform conectada aos nucleos regionais.
 - Banco nacional de oportunidades.
 - Programa nacional de patrocinio.
 - Conferencia FullDev.
@@ -103,7 +102,7 @@ Entregas:
 - Separar claramente comunidade, School, Platform e projetos.
 - Criar processo de portfolio: cada projeto precisa de dono, objetivo, status e criterio de continuidade.
 - Manter o fundador como guardiao de cultura, mas nao como aprovador de toda operacao.
-- Criar trilha de lideranca: membro ativo, embaixador, voluntario, lider de frente, lider regional.
+- Criar trilha de lideranca: membro ativo, voluntario, lider de frente, lider regional.
 - Revisar documentos a cada seis meses.
 
 ## Motivo da recomendacao

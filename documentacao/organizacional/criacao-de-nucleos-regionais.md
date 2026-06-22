@@ -1,11 +1,10 @@
-# Processo de Criacao de Nucleos Regionais e Grupos Internos
+# Processo de Criacao de Nucleos Regionais
 
 ## Definicao de nucleo
 
-Um nucleo FullDev e uma representacao regional oficial vinculada a FullDev Central. Ele opera atividades regionais e pode conter grupos tematicos internos, mas segue marca, codigo de conduta, governanca e regras nacionais.
+Um nucleo FullDev e uma representacao regional oficial vinculada a FullDev Central. Ele opera atividades regionais e segue marca, codigo de conduta, governanca e regras nacionais.
 
-- Nucleo Regional: organizado por territorio, como Rio de Janeiro, Minas Gerais, Sao Paulo e Parana.
-- Grupo Tematico Interno: organizado por area, como Frontend, Backend, IA e Design, sempre vinculado a um nucleo regional ou a uma estrutura operacional da FullDev Central.
+- Nucleo Regional: organizado por macrorregiao, como Sudeste, Centro-Oeste, Nordeste, Norte e Sul.
 
 ## Criterios minimos para abrir um nucleo
 
@@ -141,7 +140,7 @@ Antes de encerrar, a Central deve:
 
 ## Regra de exclusividade
 
-Nao deve existir mais de um nucleo cobrindo a mesma regiao ou o mesmo tema. Essa regra evita fragmentacao, disputa por membros e confusao de marca.
+Nao deve existir mais de um nucleo cobrindo a mesma regiao. Essa regra evita fragmentacao, disputa por membros e confusao de marca.
 
 ## Motivo da recomendacao
 

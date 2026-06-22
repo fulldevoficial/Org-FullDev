@@ -8,7 +8,9 @@ Ela deve ser tratada como produto/frente educacional da FullDev Central, nao com
 
 O projeto esta avancado em parceria com a PUC Minas, conforme o arquivo raiz `PROJETO DE EXTENSÃO_ADS.docx`.
 
-Tambem existem tratativas de apoio com HostGator e Asaas para suporte a FullDev School. Ate haver formalizacao, essas parcerias devem ser comunicadas como "em fechamento" ou "em negociacao", nao como patrocinio confirmado.
+A HostGator possui acordo firmado de parceria com a FullDev em formato de acordo de cavalheiros. Caso apoie a FullDev School, as contrapartidas e limites de comunicacao devem ser registrados antes da divulgacao.
+
+A Asaas possui acordo de apoio firmado para eventos da FullDev, ainda sem contrato assinado. O apoio especifico a FullDev School ainda depende de contato e definicao futura, portanto nao deve ser comunicado como apoio confirmado para a School.
 
 ## Posicionamento
 
@@ -135,9 +137,11 @@ Para a sociedade:
 - Fortalecimento do ecossistema de inovacao.
 - Formacao de novos profissionais.
 
-## Papel dos apoiadores em negociacao
+## Papel dos parceiros e apoiadores
 
-HostGator e Asaas podem apoiar a FullDev School com infraestrutura, servicos, divulgacao, conteudo, mentoria, beneficios ou apoio institucional, conforme negociacao.
+HostGator pode apoiar a FullDev School com infraestrutura, servicos, divulgacao, conteudo, mentoria, beneficios ou apoio institucional, conforme alinhamento entre as partes e registro das contrapartidas.
+
+Asaas deve ser tratada, por enquanto, como apoiadora de eventos da FullDev. Um eventual apoio a FullDev School precisa de conversa especifica, definicao de escopo e aprovacao antes de qualquer anuncio.
 
 Antes de anunciar qualquer apoio, recomenda-se registrar:
 

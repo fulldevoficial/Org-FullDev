@@ -57,7 +57,7 @@ A moderacao local ou lideranca de nucleo pode:
 
 Devem ser julgados pela FullDev Central ou Conselho Nacional:
 
-- Casos envolvendo lideres, embaixadores, parceiros ou patrocinadores.
+- Casos envolvendo lideres, parceiros ou patrocinadores.
 - Casos de assedio, discriminacao, ameaca, exposicao de dados ou abuso de poder.
 - Reincidencias.
 - Casos com risco reputacional.
@@ -74,7 +74,7 @@ Devem ser julgados pela FullDev Central ou Conselho Nacional:
 
 ## Regras para liderancas
 
-Lideres, embaixadores e moderadores tem responsabilidade maior. Abuso de poder, favorecimento, omissao diante de incidentes ou uso da comunidade para ganho pessoal indevido devem gerar avaliacao formal.
+Lideres e moderadores tem responsabilidade maior. Abuso de poder, favorecimento, omissao diante de incidentes ou uso da comunidade para ganho pessoal indevido devem gerar avaliacao formal.
 
 ## Motivo da recomendacao
 

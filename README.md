@@ -33,14 +33,13 @@ A FullDev é uma comunidade criada por desenvolvedores para desenvolvedores, com
 4. [Modelo de Governança](documentacao/organizacional/governanca.md)
 5. [Código de Conduta](documentacao/organizacional/codigo-de-conduta.md)
 6. [Manual dos Líderes Regionais](documentacao/organizacional/manual-lideres-regionais.md)
-7. [Criação de Núcleos Regionais e Grupos Internos](documentacao/organizacional/criacao-de-nucleos-regionais.md)
-8. [Programa de Embaixadores](documentacao/organizacional/programa-de-embaixadores.md)
-9. [Portfólio Atual e Status dos Projetos](documentacao/organizacional/portfolio-atual.md)
-10. [FullDev School e Projeto de Extensão PUC Minas](documentacao/organizacional/fulldev-school-projeto-extensao.md)
-11. [Roteiro de Perguntas e Decisões](documentacao/organizacional/roteiro-perguntas-decisoes.md)
-12. [Políticas de Eventos, Parcerias e Patrocínio](documentacao/organizacional/politicas-eventos-parcerias-patrocinio.md)
-13. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
-14. [Tomada de Decisão e Escalabilidade Nacional](documentacao/organizacional/decisao-escalabilidade.md)
+7. [Criação de Núcleos Regionais](documentacao/organizacional/criacao-de-nucleos-regionais.md)
+8. [Portfólio Atual e Status dos Projetos](documentacao/organizacional/portfolio-atual.md)
+9. [FullDev School e Projeto de Extensão PUC Minas](documentacao/organizacional/fulldev-school-projeto-extensao.md)
+10. [Roteiro de Perguntas e Decisões](documentacao/organizacional/roteiro-perguntas-decisoes.md)
+11. [Políticas de Eventos, Parcerias e Patrocínio](documentacao/organizacional/politicas-eventos-parcerias-patrocinio.md)
+12. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
+13. [Tomada de Decisão e Escalabilidade Nacional](documentacao/organizacional/decisao-escalabilidade.md)
 
 ## Status dos projetos
 
@@ -51,16 +50,16 @@ A FullDev é uma comunidade criada por desenvolvedores para desenvolvedores, com
 | FullDev School | Ativo | [Abrir documentação](documentacao/fullDev-School/readme.md) |
 | FullDev Links | Ativo | [Abrir documentação](documentacao/fullDev-Links/readme.md) |
 
-### Não confirmados como ativos
+### Parados ou não confirmados como ativos
 
 Estas iniciativas aparecem no histórico do repositório, mas precisam de validação sobre continuidade, responsável, próximos passos e rotina operacional.
 
 | Projeto | Status | Documentação |
 | --- | --- | --- |
-| FullDev Games | Não confirmado como ativo | [Abrir documentação](documentacao/fullDev-Games/readme.md) |
+| FullDev Games | Parado | [Abrir documentação](documentacao/fullDev-Games/readme.md) |
 | CodeQueens | Não confirmado como ativo | Sem documento próprio no repositório |
 | RainbowStack | Não confirmado como ativo | Sem documento próprio no repositório |
-| FullDev Strong | Não confirmado como ativo | Sem documento próprio no repositório |
+| FullDev Strong | Parado | Sem documento próprio no repositório |
 
 ### Projetos históricos
 
@@ -80,7 +79,7 @@ De acordo com a documentação organizacional, a prioridade atual da FullDev é:
 1. Consolidar a FullDev School.
 2. Organizar a página de links como porta de entrada oficial.
 3. Estruturar governança, parcerias e comunicação.
-4. Preparar Núcleos Regionais e grupos temáticos internos apenas depois que os processos básicos estiverem operando com clareza.
+4. Preparar Núcleos Regionais apenas depois que os processos básicos estiverem operando com clareza.
 
 ## Como participar
 

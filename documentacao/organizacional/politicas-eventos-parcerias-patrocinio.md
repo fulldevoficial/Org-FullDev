@@ -114,14 +114,29 @@ Patrocinio deve sustentar a comunidade, nao capturar sua independencia.
 - A Central define modelo de prestacao de contas, prazos e nivel de transparencia interna.
 - Recursos obtidos por ingresso, patrocinio local ou apoio devem ser registrados antes de uso.
 
-## Apoios em negociacao
+## Apoios e parcerias atuais
 
-HostGator e Asaas foram informadas como parcerias de apoio em fechamento para a FullDev School.
+### HostGator
 
-A comunicacao publica deve usar linguagem conservadora ate a formalizacao:
+A HostGator possui acordo firmado de parceria com a FullDev em formato de acordo de cavalheiros.
 
-- Correto: "em negociacao de apoio", "apoio em fechamento" ou "potencial apoiador".
-- Evitar: "patrocinador oficial", "parceria fechada" ou "apoio confirmado", salvo se houver acordo formal.
+A comunicacao pode tratar a HostGator como parceira da FullDev, desde que nao apresente a relacao como patrocinio formal assinado quando nao houver contrato especifico.
+
+### Asaas
+
+A Asaas possui acordo de apoio firmado para eventos da FullDev, ainda sem contrato assinado.
+
+A comunicacao publica deve usar linguagem conservadora:
+
+- Correto: "apoiadora de eventos", "apoio a eventos da FullDev" ou "apoio institucional a eventos".
+- Evitar: "patrocinadora oficial", "parceria contratual" ou "apoio assinado", enquanto nao houver contrato formal.
+
+O apoio da Asaas para a FullDev School ainda depende de nova conversa e definicao especifica.
+
+### Eventos e apoios pontuais
+
+- Codecon: primeiro evento em que a FullDev participara gratuitamente dentro do contexto de apoio a eventos.
+- Web Summit Rio: a FullDev conseguiu 10 ingressos por meio da equipe do Web Summit. Esse registro deve ser tratado como cortesia/apoio pontual do evento, nao como parceria institucional ampla.
 
 Antes da divulgacao, registrar:
 

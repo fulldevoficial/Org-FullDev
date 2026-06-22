@@ -14,10 +14,10 @@ Os projetos desativados ficam arquivados em `documentacao/projetos inativos/` pa
 | FullDev Atta | Desativado | Deve permanecer como registro historico. |
 | FullDev Meruem | Desativado | Deve permanecer como registro historico. |
 | FullDev Online | Desativado | Documentos de plataforma ficam como historico de produto, nao como roadmap ativo. |
-| FullDev Games | Nao confirmado como ativo | O repositorio tem proposta de MVP, mas nao ha confirmacao no status atual informado. |
+| FullDev Games | Parado | O repositorio tem proposta de MVP, mas a iniciativa esta parada no momento. |
 | CodeQueens | Nao confirmado como ativo | Citado no historico; precisa de validacao de continuidade. |
 | RainbowStack | Nao confirmado como ativo | Citado no historico; precisa de validacao de continuidade. |
-| FullDev Strong | Nao confirmado como ativo | Citado no historico; precisa de validacao de continuidade. |
+| FullDev Strong | Parado | Citado no historico; a iniciativa esta parada no momento. |
 
 ## Recomendacao de gestao de portfolio
 
@@ -25,6 +25,7 @@ A FullDev deve manter tres categorias oficiais:
 
 - Ativo: possui responsavel, rotina, entregas e proximos passos.
 - Pausado: possui valor estrategico, mas esta sem execucao no momento.
+- Parado: nao possui execucao atual e precisa de nova decisao antes de ser retomado.
 - Desativado: nao faz parte da operacao atual e deve ser mantido apenas como historico.
 
 Todo projeto ativo deve ter:
@@ -44,7 +45,7 @@ Para o momento atual, a prioridade deve ser:
 1. Consolidar FullDev School.
 2. Organizar a pagina de links como porta de entrada oficial.
 3. Estruturar governanca, parcerias e comunicacao.
-4. Preparar Nucleos Regionais e grupos tematicos internos apenas depois que a School e os processos basicos estiverem operando com clareza.
+4. Preparar Nucleos Regionais apenas depois que a School e os processos basicos estiverem operando com clareza.
 
 ## Motivo da recomendacao
 

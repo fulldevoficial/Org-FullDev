@@ -16,26 +16,21 @@ FullDev Central
 |   |-- Parcerias e Patrocinios
 |   `-- Operacoes
 |-- Nucleos Regionais
-|   |-- FullDev Rio de Janeiro
-|   |-- FullDev Minas Gerais
-|   |-- FullDev Sao Paulo
-|   |-- FullDev Parana
+|   |-- FullDev Sudeste
+|   |-- FullDev Centro-Oeste
+|   |-- FullDev Nordeste
+|   |-- FullDev Norte
+|   |-- FullDev Sul
 |   `-- Futuros nucleos
-|-- Programa de Embaixadores
-|-- Grupos Tematicos Internos
-|   |-- Frontend
-|   |-- Backend
-|   |-- IA
-|   |-- Design
-|   `-- Futuros grupos
 |-- Produtos da Central
 |   `-- FullDev School
 |-- Projetos e Subcomunidades
 |   |-- CodeQueens
 |   |-- RainbowStack
-|   |-- FullDev Strong
-|   |-- FullDev Games
 |   `-- Outros projetos aprovados
+|-- Projetos Parados
+|   |-- FullDev Strong
+|   `-- FullDev Games
 `-- Empresas Parceiras
 ```
 
@@ -64,10 +59,11 @@ Nucleos Regionais sao representacoes oficiais da FullDev em uma regiao. Eles nao
 
 Nucleos Regionais previstos:
 
-- Rio de Janeiro.
-- Minas Gerais.
-- Sao Paulo.
-- Parana.
+- Sudeste.
+- Centro-Oeste.
+- Nordeste.
+- Norte.
+- Sul.
 - Futuros nucleos.
 
 Cada nucleo regional deve ter:
@@ -79,26 +75,6 @@ Cada nucleo regional deve ter:
 - Responsavel por eventos.
 - Responsavel por parcerias locais.
 - Responsavel por operacoes, quando houver volume.
-
-## Nivel 2B: Grupos Tematicos Internos
-
-Grupos Tematicos Internos sao subdivisoes por area de conhecimento ou interesse tecnico. Eles nao sao nucleos separados e nao possuem governanca independente.
-
-Todo grupo tematico pertence a algum nucleo regional ou a uma estrutura operacional da FullDev Central, conforme decisao da Central.
-
-Grupos tematicos previstos:
-
-- Frontend.
-- Backend.
-- IA.
-- Design.
-- Futuros grupos.
-
-Cada grupo tematico pode ter:
-
-- Responsavel tematico.
-- Responsavel por conteudo.
-- Responsavel por eventos ou oficinas.
 
 ## FullDev School
 
@@ -128,7 +104,7 @@ Cuida de universidades, empresas, coworkings, comunidades amigas e patrocinadore
 
 Cuida de check-in, lista de presenca, brindes, materiais, cronograma, pos-evento e registros.
 
-## Autonomia dos Nucleos Regionais e Grupos Tematicos
+## Autonomia dos Nucleos Regionais
 
 ### Podem decidir localmente
 
@@ -137,7 +113,7 @@ Cuida de check-in, lista de presenca, brindes, materiais, cronograma, pos-evento
 - Formato de encontros pequenos.
 - Parcerias locais sem exclusividade e sem conflito com diretrizes nacionais.
 - Comunicacao local dentro dos templates da marca.
-- Trilhas, talks, desafios e oficinas tematicas, quando nao conflitarem com diretrizes da FullDev School e quando estiverem vinculadas a um nucleo regional ou aprovadas pela Central.
+- Talks, desafios e oficinas locais, quando nao conflitarem com diretrizes da FullDev School e quando estiverem vinculadas a um nucleo regional aprovado.
 
 ### Precisam de aprovacao nacional
 
@@ -151,7 +127,7 @@ Cuida de check-in, lista de presenca, brindes, materiais, cronograma, pos-evento
 
 ## Motivo da recomendacao
 
-A estrutura atual registrada no repositorio e simples demais para escala nacional. O modelo de comunidade unica com Nucleos Regionais e grupos tematicos internos reduz gargalos, cria liderancas locais/tecnicas e preserva controle de marca e cultura.
+A estrutura atual registrada no repositorio e simples demais para escala nacional. O modelo de comunidade unica com Nucleos Regionais reduz gargalos, cria liderancas locais e preserva controle de marca e cultura.
 
 Como a operacao atual esta concentrada na FullDev School, a recomendacao pratica e consolidar a frente educacional antes de abrir muitos nucleos regionais. Nucleos devem nascer para amplificar operacoes ja validadas, nao para compensar falta de processo.
 

@@ -18,7 +18,7 @@ Responsavel por decisoes estruturais:
 
 - Estrategia nacional.
 - Nomeacao e remocao de lideres regionais.
-- Aprovacao de nucleos regionais e grupos tematicos internos.
+- Aprovacao de nucleos regionais.
 - Codigo de conduta.
 - Grandes parcerias.
 - Patrocinios nacionais.
@@ -50,7 +50,7 @@ Responsavel por executar diretrizes:
 - Processos.
 - Treinamentos.
 - Acompanhamento de indicadores.
-- Suporte aos nucleos regionais e grupos internos.
+- Suporte aos nucleos regionais.
 
 ### Lideranca Regional
 
@@ -72,7 +72,6 @@ Responsaveis por executar tarefas especificas de comunidade, comunicacao, evento
 | Decisao | Responsavel | Aprovador | Consultado | Informado |
 | --- | --- | --- | --- | --- |
 | Abrir nucleo regional | Direcao de Nucleos Regionais | Conselho Nacional | Lider proposto | Comunidade |
-| Abrir grupo tematico interno | Nucleo regional ou Central | Conselho Nacional | Responsavel proposto | Comunidade |
 | Meetup local pequeno | Lider regional | Lider regional | Eventos nacional | Conselho Nacional |
 | Patrocinio local | Lider regional | Parcerias nacional | Conselho Nacional | Comunidade local |
 | Evento pago | Eventos local | Conselho Nacional | Parcerias, Operacoes | Comunidade |
@@ -84,8 +83,8 @@ Responsaveis por executar tarefas especificas de comunidade, comunicacao, evento
 
 - Semanal local: lider regional e frentes operacionais.
 - Quinzenal nacional: direcoes nacionais e lideres regionais.
-- Mensal: relatorio de nucleos regionais e grupos internos.
-- Trimestral: avaliacao de liderancas e saude dos nucleos regionais e grupos internos.
+- Mensal: relatorio de nucleos regionais.
+- Trimestral: avaliacao de liderancas e saude dos nucleos regionais.
 - Anual: revisao estrategica nacional.
 
 ## Canal de decisao conjunta

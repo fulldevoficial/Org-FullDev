@@ -16,7 +16,11 @@ Este conjunto de documentos consolida uma proposta de arquitetura organizacional
 - Projetos desativados: FullDev Meetup, FullDev Atta, FullDev Meruem e FullDev Online.
 - Projetos desativados foram movidos para `documentacao/projetos inativos/`.
 - FullDev School esta avancada em parceria com a PUC Minas, com detalhes no arquivo raiz `PROJETO DE EXTENSÃO_ADS.docx`.
-- FullDev School esta em negociacao de apoio com HostGator e Asaas. Enquanto nao houver acordo formal assinado, esses nomes devem ser tratados como apoios em fechamento, nao como patrocinadores confirmados.
+- HostGator possui acordo firmado de parceria com a FullDev em formato de acordo de cavalheiros. Deve ser comunicada como parceira da FullDev, sem tratar como patrocinio formal assinado quando nao houver contrato.
+- Asaas possui acordo de apoio firmado para eventos, ainda sem contrato assinado. No momento, deve ser comunicada como apoiadora de eventos da FullDev, nao como patrocinadora oficial ou parceira contratual.
+- A FullDev participara gratuitamente da Codecon como primeiro evento apoiado nesse contexto.
+- A equipe do Web Summit Rio disponibilizou 10 ingressos para a FullDev. Esse apoio deve ser registrado como cortesia/apoio pontual do evento, nao como parceria institucional ampla.
+- Ainda esta pendente contato com a Asaas para avaliar apoio especifico a FullDev School.
 
 ### Estruturas historicas encontradas
 
@@ -47,15 +51,15 @@ Este conjunto de documentos consolida uma proposta de arquitetura organizacional
 
 - O repositorio descreve a FullDev como comunidade gratuita e tambem como futura startup/plataforma social. Essas duas dimensoes podem coexistir, mas precisam de fronteiras claras entre comunidade, produto, educacao e monetizacao.
 - A documentacao antiga concentra poder decisorio no fundador e no conselho. A visao atual pede descentralizacao regional com governanca nacional.
-- Existem "grupos regionais" e grupos por assunto citados no historico, mas sem modelo operacional claro; a nova proposta usa Nucleos Regionais e Grupos Tematicos Internos vinculados a FullDev Central.
-- O BHAG antigo fala em ser a maior escola de programacao gratuita do Brasil. A visao atual e mais ampla: ecossistema nacional com comunidade, escola, plataforma, Nucleos Regionais, eventos, embaixadores, parceiros e conferencia.
+- Existem "grupos regionais" e grupos por assunto citados no historico, mas sem modelo operacional claro; a proposta atual usa apenas Nucleos Regionais vinculados a FullDev Central.
+- O BHAG antigo fala em ser a maior escola de programacao gratuita do Brasil. A visao atual e mais ampla: ecossistema nacional com comunidade, escola, plataforma, Nucleos Regionais, eventos, parceiros e conferencia.
 - Muitas iniciativas estao apenas nomeadas, sem dono, criterios de sucesso ou processo de continuidade.
 
 ### Lacunas principais
 
 - Falta codigo de conduta versionado no repositorio.
-- Falta modelo formal de criacao, aprovacao, avaliacao e encerramento de Nucleos Regionais e grupos internos.
-- Falta programa de lideres regionais e embaixadores.
+- Falta modelo formal de criacao, aprovacao, avaliacao e encerramento de Nucleos Regionais.
+- Falta programa de lideres regionais.
 - Falta politica de eventos, parcerias, patrocinio e uso da marca.
 - Falta processo de tomada de decisao e matriz de autonomia.
 - Falta playbook operacional replicavel para meetups, workshops, comunicacao e moderacao.
@@ -68,17 +72,16 @@ Este conjunto de documentos consolida uma proposta de arquitetura organizacional
 3. [Modelo de Governanca](governanca.md)
 4. [Codigo de Conduta](codigo-de-conduta.md)
 5. [Manual dos Lideres Regionais](manual-lideres-regionais.md)
-6. [Processo de Criacao de Nucleos Regionais e Grupos Internos](criacao-de-nucleos-regionais.md)
-7. [Programa de Embaixadores](programa-de-embaixadores.md)
-8. [Portfolio Atual e Status dos Projetos](portfolio-atual.md)
-9. [FullDev School e Projeto de Extensao PUC Minas](fulldev-school-projeto-extensao.md)
-10. [Roteiro de Perguntas e Decisoes](roteiro-perguntas-decisoes.md)
-11. [Politicas de Eventos, Parcerias e Patrocinio](politicas-eventos-parcerias-patrocinio.md)
-12. [Playbook Operacional e Comunicacao Interna](playbook-operacional-comunicacao.md)
-13. [Tomada de Decisao e Escalabilidade Nacional](decisao-escalabilidade.md)
+6. [Processo de Criacao de Nucleos Regionais](criacao-de-nucleos-regionais.md)
+7. [Portfolio Atual e Status dos Projetos](portfolio-atual.md)
+8. [FullDev School e Projeto de Extensao PUC Minas](fulldev-school-projeto-extensao.md)
+9. [Roteiro de Perguntas e Decisoes](roteiro-perguntas-decisoes.md)
+10. [Politicas de Eventos, Parcerias e Patrocinio](politicas-eventos-parcerias-patrocinio.md)
+11. [Playbook Operacional e Comunicacao Interna](playbook-operacional-comunicacao.md)
+12. [Tomada de Decisao e Escalabilidade Nacional](decisao-escalabilidade.md)
 
 ## Recomendacao central
 
-A FullDev deve operar como uma comunidade unica com subdivisoes internas: uma FullDev Central forte, com governanca simples, Nucleos Regionais, grupos tematicos internos e frentes operacionais replicaveis.
+A FullDev deve operar como uma comunidade unica com subdivisoes internas: uma FullDev Central forte, com governanca simples, Nucleos Regionais e frentes operacionais replicaveis.
 
 O objetivo nao e criar franquias, filiais empresariais ou grupos independentes. O objetivo e criar uma comunidade nacional com liderancas locais, autonomia controlada e padroes comuns de cultura, seguranca, marca e qualidade.
