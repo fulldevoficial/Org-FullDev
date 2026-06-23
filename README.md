@@ -42,6 +42,26 @@ A FullDev é uma comunidade criada por desenvolvedores para desenvolvedores, com
 13. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
 14. [Tomada de Decisão e Escalabilidade](documentacao/organizacional/decisao-escalabilidade.md)
 
+## Equipe atual da FullDev Central
+
+Composição operacional registrada em [equipe-fulldev-central.md](documentacao/organizacional/equipe-fulldev-central.md). Uma mesma pessoa pode acumular funções, mas toda área precisa ter responsável, escopo, rotina e canal com a Central.
+
+| Área | Responsáveis |
+| --- | --- |
+| Fundação, Parcerias e Direção da School | Lucas Pedro |
+| Conselho Central e Coordenação Geral | Mesma equipe (nomes a definir) |
+| Comunidade WhatsApp | Gabu, Matheus Braz |
+| Comunidade Discord | João |
+| Comunicação e Marca | Estagiário da PUC |
+| Eventos | Lyssa |
+| Operações | Carlos, Hernando |
+| Técnico / Plataforma | Inteligência artificial, Carlos, João |
+| Financeiro / Administrativo | A definir |
+
+O documento detalha ainda o modelo sugerido para Núcleos Regionais (owner regional, co-owner, comunidade, comunicação, eventos, parcerias e operações locais) e a equipe de suporte da FullDev School (direção, coordenação pedagógica, instrutores, hosts, suporte aos alunos, comunicação, operações, técnico/transmissão e parcerias educacionais).
+
+Pendências em aberto: nomes do Conselho Central, responsável financeiro/administrativo, equipe fixa da FullDev School, processo de seleção do estagiário de Comunicação e Marca e critérios finais para escolha de owners regionais.
+
 ## Status dos projetos
 
 ### Ativos
