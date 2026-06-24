@@ -67,8 +67,7 @@ Esta secao descreve, para cada area, qual e o papel central, o que precisa ser f
 - **Por que essa composicao:** combina visao estrategica (Lucas), continuidade em ausencias (Matheus), criterio tecnico em decisoes de plataforma e investimento (Carlos) e a frente que mais demanda decisao rapida sobre custo, calendario e patrocinio (Lyssa). Mantem o conselho enxuto para decidir rapido.
 - **Papel:** orgao de decisao colegiada que prioriza frentes, valida decisoes estruturais e destrava operacao.
 - **O que precisa ser feito:** reunioes recorrentes, definicao de prioridades do trimestre, aprovacao de parcerias e patrocinios, acompanhamento de indicadores e resolucao de conflitos entre areas.
-- **Como se correlaciona:** recebe demandas e bloqueios de todas as areas, aprova movimentos de Parcerias, Eventos e School, e garante que nenhuma frente seja aberta sem dono. Hernando (Operacoes) e Viviane (Coordenacao Pedagogica) reportam indicadores e propostas ao Conselho sem cadeira fixa; Joao (Discord) e convocado quando o tema for relativo a comunidade Discord.
-- **Lacuna conhecida:** Discord nao tem assento direto. Revisitar se a frente crescer como prioridade estrategica.
+- **Como se correlaciona:** recebe demandas e bloqueios de todas as areas, aprova movimentos de Parcerias, Eventos e School, e garante que nenhuma frente seja aberta sem dono. Hernando (Operacoes), Viviane (Coordenacao Pedagogica) e Joao (Discord) reportam indicadores e propostas ao Conselho sem cadeira fixa; Joao e convocado sempre que o tema for relativo a comunidade Discord.
 - **Exemplo pratico:** Eventos propoe um meetup presencial com custo de locacao. O Conselho avalia orcamento, alinhamento com a estrategia, capacidade operacional e aprova ou redireciona a proposta.
 
 ### Comunidade WhatsApp
@@ -148,6 +147,44 @@ Essa equipe deve cuidar de:
 - Validar parcerias, apoios e patrocinios.
 - Acompanhar indicadores.
 - Garantir que a FullDev nao abra frentes sem dono.
+
+## Grupos de WhatsApp da equipe
+
+A comunicacao interna da FullDev acontece principalmente em WhatsApp. Para nao misturar decisao, operacao e expansao em um unico canal, a equipe se organiza em tres grupos com escopos diferentes.
+
+### 1. Grupo Conselho Central
+
+- **Quem entra:** Lucas Pedro, Matheus Braz, Carlos e Lyssa.
+- **Para que serve:** decisoes estruturais, aprovacoes de parceria, prioridades do trimestre, conflitos entre areas e temas sensiveis (marca, financeiro, juridico).
+- **Tom:** baixo volume, alta densidade. Mensagens devem caber em uma decisao ou em um pedido de aprovacao.
+- **Convidados pontuais:** Hernando (indicadores), Viviane (School) e Joao (Discord) podem ser chamados ao grupo ou ter o tema espelhado quando o Conselho precisar do contexto deles.
+
+### 2. Grupo Time Geral FullDev Central
+
+- **Quem entra:** todos os responsaveis fixos da Central (Lucas, Matheus, Gabu, Joao, Lyssa, Hernando, Carlos, Estagiario de Comunicacao e Marca, alem de Viviane e Luciano Primo Dev pela School).
+- **Para que serve:** alinhamento operacional do dia a dia, avisos gerais, repasse de decisoes do Conselho, divulgacao interna de eventos, aulas e parcerias, troca rapida entre areas.
+- **Tom:** volume medio. Decisoes ficam no Conselho; aqui circula o que a equipe precisa saber para executar.
+- **Regra:** nao usar para discussoes longas de decisao - se virar debate, escala pro Conselho.
+
+### 3. Grupo Liderancas Regionais + Conselho
+
+- **Quem entra:** Conselho Central (Lucas, Matheus, Carlos, Lyssa) e os owners de cada Nucleo Regional, conforme forem sendo formados.
+- **Para que serve:** alinhamento entre Central e Nucleos Regionais, padronizacao de praticas, calendario nacional, troca de aprendizados regionais e encaminhamento de conflitos locais.
+- **Tom:** volume medio-baixo. Espaco de coordenacao, nao de operacao diaria - cada Nucleo tem seu proprio grupo interno.
+- **Status atual:** grupo a ser aberto quando o primeiro Nucleo Regional for formalizado. Hoje a FullDev Central nao tem Nucleos ativos.
+
+### Grupos auxiliares (quando fizer sentido)
+
+- **Grupo da FullDev School:** equipe fixa da School (Lucas, Hernando, Carlos, Luciano, Viviane) para rotina pedagogica e operacional da frente educacional, sem poluir o Time Geral.
+- **Grupos por evento:** temporarios, criados para organizar um evento especifico e arquivados depois do pos-evento.
+- **Grupos por projeto:** quando uma frente (School, Links, futuros projetos) precisar de canal proprio para nao competir com a comunicacao da Central.
+
+### Principios para os grupos
+
+- Cada grupo tem escopo definido e um responsavel por moderacao.
+- Decisao estrutural so e oficial quando passa pelo Conselho - mensagem em outro grupo nao substitui.
+- Topicos que aparecem no grupo errado sao redirecionados, nao discutidos no local.
+- Acessos e saidas sao registrados por Operacoes (Hernando).
 
 ## Comunicacao e Marca
 
