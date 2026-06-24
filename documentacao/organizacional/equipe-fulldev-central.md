@@ -22,7 +22,7 @@ Toda funcao precisa ter:
 | Fundador | Lucas Pedro | Guardiao da visao, cultura, posicionamento, parcerias estrategicas e decisoes de direcao. |
 | Decisor na ausencia do fundador | Matheus Braz | Toma decisoes em nome do fundador quando Lucas Pedro nao estiver disponivel, dentro do escopo da Central. |
 | Tech Advisor da comunidade | Carlos | Aconselha a Central em decisoes tecnicas e estrategicas envolvendo plataforma, ferramentas, infraestrutura e produtos digitais. |
-| Conselho Central e Coordenacao Geral | Mesma equipe | Decide prioridades, acompanha execucao, destrava operacao e valida decisoes estruturais. |
+| Conselho Central e Coordenacao Geral | Lucas Pedro, Matheus Braz, Carlos, Lyssa | Decide prioridades, acompanha execucao, destrava operacao e valida decisoes estruturais. |
 | Comunidade WhatsApp | Gabu, Matheus Braz | Moderacao, acolhimento, saude dos grupos, engajamento e encaminhamento de conflitos no WhatsApp. |
 | Comunidade Discord | Joao | Organizacao, moderacao e engajamento do Discord. |
 | Comunicacao e Marca | Estagiario da PUC | Redes sociais, identidade visual, comunicados, posts, cobertura e padrao de marca. |
@@ -63,9 +63,12 @@ Esta secao descreve, para cada area, qual e o papel central, o que precisa ser f
 
 ### Conselho Central e Coordenacao Geral
 
+- **Composicao atual:** Lucas Pedro (fundador), Matheus Braz (decisor na ausencia do fundador e voz da Comunidade WhatsApp), Carlos (Tech Advisor) e Lyssa (Eventos).
+- **Por que essa composicao:** combina visao estrategica (Lucas), continuidade em ausencias (Matheus), criterio tecnico em decisoes de plataforma e investimento (Carlos) e a frente que mais demanda decisao rapida sobre custo, calendario e patrocinio (Lyssa). Mantem o conselho enxuto para decidir rapido.
 - **Papel:** orgao de decisao colegiada que prioriza frentes, valida decisoes estruturais e destrava operacao.
 - **O que precisa ser feito:** reunioes recorrentes, definicao de prioridades do trimestre, aprovacao de parcerias e patrocinios, acompanhamento de indicadores e resolucao de conflitos entre areas.
-- **Como se correlaciona:** recebe demandas e bloqueios de todas as areas, aprova movimentos de Parcerias, Eventos e School, e garante que nenhuma frente seja aberta sem dono.
+- **Como se correlaciona:** recebe demandas e bloqueios de todas as areas, aprova movimentos de Parcerias, Eventos e School, e garante que nenhuma frente seja aberta sem dono. Hernando (Operacoes) e Viviane (Coordenacao Pedagogica) reportam indicadores e propostas ao Conselho sem cadeira fixa; Joao (Discord) e convocado quando o tema for relativo a comunidade Discord.
+- **Lacuna conhecida:** Discord nao tem assento direto. Revisitar se a frente crescer como prioridade estrategica.
 - **Exemplo pratico:** Eventos propoe um meetup presencial com custo de locacao. O Conselho avalia orcamento, alinhamento com a estrategia, capacidade operacional e aprova ou redireciona a proposta.
 
 ### Comunidade WhatsApp
@@ -133,7 +136,7 @@ Esta secao descreve, para cada area, qual e o papel central, o que precisa ser f
 
 ## Conselho Central e Coordenacao Geral
 
-No momento atual, Conselho Central e Coordenacao Geral funcionam como a mesma equipe.
+No momento atual, Conselho Central e Coordenacao Geral funcionam como a mesma equipe, composta por Lucas Pedro, Matheus Braz, Carlos e Lyssa.
 
 Essa equipe deve cuidar de:
 
