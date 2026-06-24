@@ -27,9 +27,90 @@ Toda funcao precisa ter:
 | Eventos | Lyssa | Planejamento, organizacao e execucao de eventos, presencas externas, checklists e pos-evento. |
 | Parcerias | Lucas Pedro | Relacionamento com empresas, apoiadores, universidades, eventos e oportunidades institucionais. |
 | FullDev School | Lucas Pedro + equipe | Direcao da frente educacional, relacao com parceiros, trilhas, calendario, professores, alunos e operacao pedagogica. |
-| Operacoes | Carlos, Hernando | Processos, documentos, calendario, atas, checklists, indicadores, acessos e organizacao interna. |
+| Operacoes | Hernando | Processos, documentos, calendario, atas, checklists, indicadores, acessos e organizacao interna. |
 | Tecnico / Plataforma | Inteligencia artificial, Carlos, Joao | Site, pagina de links, automacoes, ferramentas, suporte tecnico, infraestrutura e produtos digitais. |
-| Financeiro / Administrativo | Sem nome por enquanto | Registro de custos, apoios, reembolsos, entradas, brindes, ingressos e prestacao de contas. |
+| Financeiro / Administrativo | Sem responsavel definido (apoio pontual de Carlos, sem assumir a area) | Registro de custos, apoios, reembolsos, entradas, brindes, ingressos e prestacao de contas. |
+
+## Detalhamento das areas
+
+Esta secao descreve, para cada area, qual e o papel central, o que precisa ser feito na rotina, como ela se relaciona com as outras areas e um exemplo pratico de execucao.
+
+### Fundador
+
+- **Papel:** guardiao da visao, cultura, posicionamento e direcao estrategica da FullDev. Garante coerencia entre o que a comunidade diz ser e o que a comunidade faz.
+- **O que precisa ser feito:** manter a narrativa da FullDev, abrir caminhos institucionais, decidir sobre parcerias estrategicas, validar uso da marca e proteger o "By Dev, For Dev".
+- **Como se correlaciona:** alimenta o Conselho Central com direcao, fecha parcerias de alto nivel junto com Parcerias, valida posicionamento publico com Comunicacao e Marca e responde pelas decisoes finais da FullDev School.
+- **Exemplo pratico:** uma universidade procura a FullDev oferecendo um convenio de extensao. O Fundador conduz a conversa estrategica, alinha com Parcerias o formato e aciona a Direcao da School para validar viabilidade pedagogica.
+
+### Conselho Central e Coordenacao Geral
+
+- **Papel:** orgao de decisao colegiada que prioriza frentes, valida decisoes estruturais e destrava operacao.
+- **O que precisa ser feito:** reunioes recorrentes, definicao de prioridades do trimestre, aprovacao de parcerias e patrocinios, acompanhamento de indicadores e resolucao de conflitos entre areas.
+- **Como se correlaciona:** recebe demandas e bloqueios de todas as areas, aprova movimentos de Parcerias, Eventos e School, e garante que nenhuma frente seja aberta sem dono.
+- **Exemplo pratico:** Eventos propoe um meetup presencial com custo de locacao. O Conselho avalia orcamento, alinhamento com a estrategia, capacidade operacional e aprova ou redireciona a proposta.
+
+### Comunidade WhatsApp
+
+- **Papel:** manter a saude dos grupos de WhatsApp, acolher novos membros e moderar conversas.
+- **O que precisa ser feito:** moderacao diaria, boas-vindas, aplicacao do codigo de conduta, encaminhamento de conflitos, divulgacao de eventos e leitura do clima da comunidade.
+- **Como se correlaciona:** distribui comunicados criados por Comunicacao e Marca, sinaliza temas e dores para a School, alimenta Eventos com sugestoes da base e reporta incidentes ao Conselho.
+- **Exemplo pratico:** surge uma discussao agressiva em um grupo. Os moderadores intervem, aplicam o codigo de conduta, registram o caso e, se necessario, levam ao Conselho para deliberacao.
+
+### Comunidade Discord
+
+- **Papel:** organizar, moderar e engajar o Discord como espaco de convivencia tecnica e social.
+- **O que precisa ser feito:** estruturar canais, moderar conversas, sustentar rituais (calls, papos, sessoes de estudo), apoiar transmissoes da School e manter bots e permissoes.
+- **Como se correlaciona:** integra com Tecnico/Plataforma para automacoes e bots, com a School para aulas e gravacoes, com Comunicacao para divulgacao e com WhatsApp para fluxo entre comunidades.
+- **Exemplo pratico:** durante uma aula da School, o Discord hospeda a sala de duvidas em paralelo a transmissao no YouTube, com canal dedicado e moderacao ativa.
+
+### Comunicacao e Marca
+
+- **Papel:** sustentar identidade visual, tom de voz, presenca digital e narrativa publica da FullDev.
+- **O que precisa ser feito:** calendario editorial, criacao de posts, cobertura de eventos e aulas, padronizacao de templates, comunicados oficiais e curadoria de depoimentos.
+- **Como se correlaciona:** recebe insumos de Eventos, School e Parcerias, valida tom com o Fundador/Conselho, divulga nos canais operados por WhatsApp e Discord e apoia Parcerias com materiais institucionais.
+- **Exemplo pratico:** ha um novo parceiro educacional. Comunicacao prepara post de anuncio, story, banner para a pagina de links e nota para os grupos, seguindo o template aprovado.
+
+### Eventos
+
+- **Papel:** planejar, organizar e executar eventos online e presenciais da FullDev.
+- **O que precisa ser feito:** calendario de eventos, checklists pre/durante/pos-evento, logistica, captacao de espacos, gestao de inscritos, lista de presenca e relatorio final.
+- **Como se correlaciona:** depende de Parcerias para patrocinio e locais, de Comunicacao para divulgacao, de Operacoes para registros e da School quando o evento e educacional.
+- **Exemplo pratico:** um meetup presencial em BH. Lyssa coordena pauta, palestrantes e checklist; Parcerias garante o patrocinio; Comunicacao divulga; Operacoes registra presenca e indicadores.
+
+### Parcerias
+
+- **Papel:** construir e manter relacionamento com empresas, universidades, apoiadores e comunidades parceiras, ampliando oportunidades para a base.
+- **O que precisa ser feito:** prospeccao ativa, follow-up, formalizacao de acordos, gestao de contrapartidas, renovacoes e curadoria de quem entra como parceiro.
+- **Como se correlaciona:** Lucas Pedro lidera as conversas estrategicas. Alimenta Eventos com patrocinios, abastece a School com parceiros educacionais, aciona Comunicacao para anuncios e leva contratos relevantes ao Conselho.
+- **Exemplo pratico:** uma empresa quer patrocinar uma trilha da School. Lucas conduz a negociacao, define contrapartidas (vagas, mentorias, marca em material), alinha com a Direcao da School e formaliza com aprovacao do Conselho.
+
+### FullDev School
+
+- **Papel:** frente educacional da FullDev, responsavel por trilhas, aulas, professores, alunos e relacao com parceiros academicos.
+- **O que precisa ser feito:** calendario letivo, ementas, selecao de instrutores, acompanhamento pedagogico, suporte ao aluno, certificacoes e indicadores de turma.
+- **Como se correlaciona:** consome parcerias educacionais (Parcerias), usa Comunicacao para divulgacao, Discord para aulas, Operacoes para registros e Tecnico para transmissao e ferramentas.
+- **Exemplo pratico:** abertura de uma nova trilha de back-end. A Direcao da School define escopo, Coordenacao Pedagogica monta a ementa, Parcerias confirma o apoio da empresa madrinha, Comunicacao divulga e Operacoes abre inscricoes.
+
+### Operacoes
+
+- **Papel:** sustentar a engrenagem invisivel da FullDev: processos, documentos, indicadores, calendarios e acessos.
+- **O que precisa ser feito:** organizar drive, atas, checklists, calendarios compartilhados, controle de acessos, padronizacao de planilhas e consolidacao de indicadores.
+- **Como se correlaciona:** Hernando opera o backbone que conecta todas as areas: registra decisoes do Conselho, formaliza checklists de Eventos e School, mantem painel de indicadores e garante que nada se perca em conversas soltas.
+- **Exemplo pratico:** apos um evento, Operacoes consolida lista de presenca, NPS, custos e fotos em um relatorio unico, arquiva no drive e envia o resumo ao Conselho.
+
+### Tecnico / Plataforma
+
+- **Papel:** sustentar site, pagina de links, automacoes, bots, infraestrutura e produtos digitais da FullDev.
+- **O que precisa ser feito:** manter o site e a pagina de links no ar, criar automacoes que reduzam trabalho manual, dar suporte a transmissoes, integrar ferramentas e cuidar da seguranca basica.
+- **Como se correlaciona:** apoia Discord com bots, Comunicacao com integracoes de redes, School com transmissao e gravacao, Operacoes com automacoes de planilha e Parcerias com paginas dedicadas a parceiros.
+- **Exemplo pratico:** Parcerias fecha um patrocinio com uma empresa. Tecnico publica a marca na pagina de links, ajusta o rodape do site e configura UTM para medir cliques.
+
+### Financeiro / Administrativo
+
+- **Papel:** registrar entradas, saidas, apoios, reembolsos e prestar contas com clareza.
+- **O que precisa ser feito:** controle de caixa (mesmo que simples), registro de apoios e patrocinios, organizacao de notas, conciliacao mensal e relatorio para o Conselho.
+- **Como se correlaciona:** sem responsavel fixo no momento; Carlos apoia pontualmente sem assumir a area. Recebe entradas via Parcerias e Eventos, atende solicitacoes de Operacoes e responde ao Conselho. Definir um responsavel proprio segue como pendencia critica.
+- **Exemplo pratico:** um patrocinador deposita o apoio acordado. O registro entra na planilha financeira, a nota e arquivada e o Conselho recebe o status atualizado de caixa no proximo ciclo.
 
 ## Conselho Central e Coordenacao Geral
 

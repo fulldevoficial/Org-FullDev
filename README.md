@@ -31,16 +31,17 @@ A FullDev é uma comunidade criada por desenvolvedores para desenvolvedores, com
 2. [Manifesto, Missão, Visão e Valores](documentacao/organizacional/manifesto-missao-visao-valores.md)
 3. [Estrutura Organizacional e Organograma](documentacao/organizacional/estrutura-organizacional.md)
 4. [Equipe FullDev Central](documentacao/organizacional/equipe-fulldev-central.md)
-5. [Modelo de Governança](documentacao/organizacional/governanca.md)
-6. [Código de Conduta](documentacao/organizacional/codigo-de-conduta.md)
-7. [Manual dos Líderes Regionais](documentacao/organizacional/manual-lideres-regionais.md)
-8. [Criação de Núcleos Regionais](documentacao/organizacional/criacao-de-nucleos-regionais.md)
-9. [Portfólio Atual e Status dos Projetos](documentacao/organizacional/portfolio-atual.md)
-10. [FullDev School e Projeto de Extensão PUC Minas](documentacao/organizacional/fulldev-school-projeto-extensao.md)
-11. [Roteiro de Perguntas e Decisões](documentacao/organizacional/roteiro-perguntas-decisoes.md)
-12. [Políticas de Eventos, Parcerias e Patrocínio](documentacao/organizacional/politicas-eventos-parcerias-patrocinio.md)
-13. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
-14. [Tomada de Decisão e Escalabilidade](documentacao/organizacional/decisao-escalabilidade.md)
+5. [Equipe FullDev School](documentacao/organizacional/equipe-fulldev-school.md)
+6. [Modelo de Governança](documentacao/organizacional/governanca.md)
+7. [Código de Conduta](documentacao/organizacional/codigo-de-conduta.md)
+8. [Manual dos Líderes Regionais](documentacao/organizacional/manual-lideres-regionais.md)
+9. [Criação de Núcleos Regionais](documentacao/organizacional/criacao-de-nucleos-regionais.md)
+10. [Portfólio Atual e Status dos Projetos](documentacao/organizacional/portfolio-atual.md)
+11. [FullDev School e Projeto de Extensão PUC Minas](documentacao/organizacional/fulldev-school-projeto-extensao.md)
+12. [Roteiro de Perguntas e Decisões](documentacao/organizacional/roteiro-perguntas-decisoes.md)
+13. [Políticas de Eventos, Parcerias e Patrocínio](documentacao/organizacional/politicas-eventos-parcerias-patrocinio.md)
+14. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
+15. [Tomada de Decisão e Escalabilidade](documentacao/organizacional/decisao-escalabilidade.md)
 
 ## Equipe atual da FullDev Central
 
@@ -54,9 +55,10 @@ Composição operacional registrada em [equipe-fulldev-central.md](documentacao/
 | Comunidade Discord | João |
 | Comunicação e Marca | Estagiário da PUC |
 | Eventos | Lyssa |
-| Operações | Carlos, Hernando |
+| Parcerias | Lucas Pedro |
+| Operações | Hernando |
 | Técnico / Plataforma | Inteligência artificial, Carlos, João |
-| Financeiro / Administrativo | A definir |
+| Financeiro / Administrativo | A definir (apoio pontual de Carlos, sem assumir a área) |
 
 O documento detalha ainda o modelo sugerido para Núcleos Regionais (owner regional, co-owner, comunidade, comunicação, eventos, parcerias e operações locais) e a equipe de suporte da FullDev School (direção, coordenação pedagógica, instrutores, hosts, suporte aos alunos, comunicação, operações, técnico/transmissão e parcerias educacionais).
 
