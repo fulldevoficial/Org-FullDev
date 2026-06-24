@@ -50,6 +50,8 @@ Composição operacional registrada em [equipe-fulldev-central.md](documentacao/
 | Área | Responsáveis |
 | --- | --- |
 | Fundação, Parcerias e Direção da School | Lucas Pedro |
+| Decisor na ausência do fundador | Matheus Braz |
+| Tech Advisor da comunidade | Carlos |
 | Conselho Central e Coordenação Geral | Mesma equipe (nomes a definir) |
 | Comunidade WhatsApp | Gabu, Matheus Braz |
 | Comunidade Discord | João |
@@ -57,7 +59,7 @@ Composição operacional registrada em [equipe-fulldev-central.md](documentacao/
 | Eventos | Lyssa |
 | Parcerias | Lucas Pedro |
 | Operações | Hernando |
-| Técnico / Plataforma | Inteligência artificial, Carlos, João |
+| Técnico / Plataforma | Inteligência artificial, Carlos (Tech Advisor), João |
 | Financeiro / Administrativo | A definir (apoio pontual de Carlos, sem assumir a área) |
 
 O documento detalha ainda o modelo sugerido para Núcleos Regionais (owner regional, co-owner, comunidade, comunicação, eventos, parcerias e operações locais) e a equipe de suporte da FullDev School (direção, coordenação pedagógica, instrutores, hosts, suporte aos alunos, comunicação, operações, técnico/transmissão e parcerias educacionais).

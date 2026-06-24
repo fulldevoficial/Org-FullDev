@@ -20,6 +20,8 @@ Toda funcao precisa ter:
 | Area | Responsaveis atuais | Escopo |
 | --- | --- | --- |
 | Fundador | Lucas Pedro | Guardiao da visao, cultura, posicionamento, parcerias estrategicas e decisoes de direcao. |
+| Decisor na ausencia do fundador | Matheus Braz | Toma decisoes em nome do fundador quando Lucas Pedro nao estiver disponivel, dentro do escopo da Central. |
+| Tech Advisor da comunidade | Carlos | Aconselha a Central em decisoes tecnicas e estrategicas envolvendo plataforma, ferramentas, infraestrutura e produtos digitais. |
 | Conselho Central e Coordenacao Geral | Mesma equipe | Decide prioridades, acompanha execucao, destrava operacao e valida decisoes estruturais. |
 | Comunidade WhatsApp | Gabu, Matheus Braz | Moderacao, acolhimento, saude dos grupos, engajamento e encaminhamento de conflitos no WhatsApp. |
 | Comunidade Discord | Joao | Organizacao, moderacao e engajamento do Discord. |
@@ -28,7 +30,7 @@ Toda funcao precisa ter:
 | Parcerias | Lucas Pedro | Relacionamento com empresas, apoiadores, universidades, eventos e oportunidades institucionais. |
 | FullDev School | Lucas Pedro + equipe | Direcao da frente educacional, relacao com parceiros, trilhas, calendario, professores, alunos e operacao pedagogica. |
 | Operacoes | Hernando | Processos, documentos, calendario, atas, checklists, indicadores, acessos e organizacao interna. |
-| Tecnico / Plataforma | Inteligencia artificial, Carlos, Joao | Site, pagina de links, automacoes, ferramentas, suporte tecnico, infraestrutura e produtos digitais. |
+| Tecnico / Plataforma | Inteligencia artificial, Carlos (Tech Advisor), Joao | Site, pagina de links, automacoes, ferramentas, suporte tecnico, infraestrutura e produtos digitais. |
 | Financeiro / Administrativo | Sem responsavel definido (apoio pontual de Carlos, sem assumir a area) | Registro de custos, apoios, reembolsos, entradas, brindes, ingressos e prestacao de contas. |
 
 ## Detalhamento das areas
@@ -41,6 +43,23 @@ Esta secao descreve, para cada area, qual e o papel central, o que precisa ser f
 - **O que precisa ser feito:** manter a narrativa da FullDev, abrir caminhos institucionais, decidir sobre parcerias estrategicas, validar uso da marca e proteger o "By Dev, For Dev".
 - **Como se correlaciona:** alimenta o Conselho Central com direcao, fecha parcerias de alto nivel junto com Parcerias, valida posicionamento publico com Comunicacao e Marca e responde pelas decisoes finais da FullDev School.
 - **Exemplo pratico:** uma universidade procura a FullDev oferecendo um convenio de extensao. O Fundador conduz a conversa estrategica, alinha com Parcerias o formato e aciona a Direcao da School para validar viabilidade pedagogica.
+
+### Decisor na ausencia do fundador
+
+- **Responsavel:** Matheus Braz.
+- **Papel:** responder pelo fundador quando Lucas Pedro nao estiver disponivel. Garante que a Central nao trave em decisoes que precisam de resposta rapida.
+- **O que precisa ser feito:** decidir, dentro do escopo da Central, em situacoes em que Lucas estaria envolvido mas nao pode responder em tempo habil; registrar a decisao tomada para validacao posterior; escalar ao Conselho quando o tema for estrutural ou irreversivel.
+- **Como se correlaciona:** atua em par com o Fundador e o Conselho Central, recebe demandas de qualquer area quando ha bloqueio por ausencia e e a referencia para Comunidade WhatsApp, Discord, Eventos, Operacoes e demais frentes em casos urgentes.
+- **Limites:** nao decide sozinho sobre direcao estrategica de longo prazo, parcerias institucionais de alto impacto, uso da marca em contextos sensiveis ou temas que exigem o Conselho. Esses casos esperam o retorno do Fundador ou sao escalados ao Conselho.
+- **Exemplo pratico:** um parceiro pede confirmacao em 24h sobre apoio a um evento, Lucas esta inacessivel. Matheus avalia o pedido com base no historico, alinha com o Conselho se possivel, da a resposta ao parceiro e registra a decisao para Lucas validar no retorno.
+
+### Tech Advisor da comunidade
+
+- **Responsavel:** Carlos.
+- **Papel:** aconselhar a Central em decisoes tecnicas e estrategicas envolvendo plataforma, ferramentas, infraestrutura, produtos digitais e seguranca basica. E voz de referencia tecnica, nao executor unico.
+- **O que precisa ser feito:** avaliar propostas de stack, ferramentas e automacoes; revisar decisoes da area Tecnico/Plataforma; antecipar riscos tecnicos em parcerias, eventos e novos projetos; orientar o time tecnico em ambiguidades de arquitetura.
+- **Como se correlaciona:** atua junto a Tecnico/Plataforma (onde tambem opera), apoia o Conselho em decisoes que envolvem custo, risco ou viabilidade tecnica, da insumos para Operacoes em automacoes e e consultado por Parcerias quando ha integracao tecnica com parceiros.
+- **Exemplo pratico:** surge a proposta de migrar a pagina de links para uma nova plataforma. Carlos avalia trade-offs (custo, manutencao, lock-in, integracao com automacoes), faz uma recomendacao formal ao Conselho e acompanha a execucao com o time tecnico.
 
 ### Conselho Central e Coordenacao Geral
 
