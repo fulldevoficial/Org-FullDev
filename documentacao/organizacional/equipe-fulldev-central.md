@@ -32,6 +32,7 @@ Toda funcao precisa ter:
 | Operacoes | Hernando | Processos, documentos, calendario, atas, checklists, indicadores, acessos e organizacao interna. |
 | Tecnico / Plataforma | Inteligencia artificial, Carlos (Tech Advisor), Joao | Site, pagina de links, automacoes, ferramentas, suporte tecnico, infraestrutura e produtos digitais. |
 | Financeiro / Administrativo | Sem responsavel definido (apoio pontual de Carlos, sem assumir a area) | Registro de custos, apoios, reembolsos, entradas, brindes, ingressos e prestacao de contas. |
+| Nucleo Operacional (membro) | Geovana | Compoe o nucleo que puxa execucao no dia a dia. Funcao especifica na Central a confirmar. |
 
 ## Detalhamento das areas
 
@@ -150,7 +151,7 @@ Essa equipe deve cuidar de:
 
 ## Grupos de WhatsApp da equipe
 
-A comunicacao interna da FullDev acontece principalmente em WhatsApp. Para nao misturar decisao, operacao e expansao em um unico canal, a equipe se organiza em tres grupos com escopos diferentes.
+A comunicacao interna da FullDev acontece principalmente em WhatsApp. Para nao misturar decisao, nucleo operacional, time amplo e expansao em um unico canal, a equipe se organiza em quatro grupos com escopos diferentes.
 
 ### 1. Grupo Conselho Central
 
@@ -159,14 +160,21 @@ A comunicacao interna da FullDev acontece principalmente em WhatsApp. Para nao m
 - **Tom:** baixo volume, alta densidade. Mensagens devem caber em uma decisao ou em um pedido de aprovacao.
 - **Convidados pontuais:** Hernando (indicadores), Viviane (School) e Joao (Discord) podem ser chamados ao grupo ou ter o tema espelhado quando o Conselho precisar do contexto deles.
 
-### 2. Grupo Time Geral FullDev Central
+### 2. Grupo Nucleo Operacional
 
-- **Quem entra:** todos os responsaveis fixos da Central (Lucas, Matheus, Gabu, Joao, Lyssa, Hernando, Carlos, Estagiario de Comunicacao e Marca, alem de Viviane e Luciano Primo Dev pela School).
-- **Para que serve:** alinhamento operacional do dia a dia, avisos gerais, repasse de decisoes do Conselho, divulgacao interna de eventos, aulas e parcerias, troca rapida entre areas.
-- **Tom:** volume medio. Decisoes ficam no Conselho; aqui circula o que a equipe precisa saber para executar.
-- **Regra:** nao usar para discussoes longas de decisao - se virar debate, escala pro Conselho.
+- **Quem entra:** Lucas Pedro, Lyssa, Hernando, Carlos, Matheus Braz, Geovana (e demais nomes que estiverem na linha de frente da operacao).
+- **Para que serve:** coordenacao proxima do dia a dia entre as pessoas que efetivamente puxam frentes. Discute execucao das decisoes do Conselho, destrava bloqueios entre areas, alinha calendario semanal e prepara temas que vao subir para o Conselho.
+- **Tom:** volume medio-alto. E o grupo de trabalho da operacao - decisoes pequenas saem daqui; decisoes estruturais sobem para o Conselho.
+- **Diferenca para o Time Geral:** o Nucleo Operacional e um grupo enxuto de quem opera, nao de quem participa da organizacao em sentido amplo. O Time Geral inclui moderadores e desenvolvedores que nao estao no dia a dia da operacao.
 
-### 3. Grupo Liderancas Regionais + Conselho
+### 3. Grupo Time Geral FullDev
+
+- **Quem entra:** pessoal da organizacao + moderadores + desenvolvedores envolvidos na FullDev (Lucas, Matheus, Gabu, Joao, Lyssa, Hernando, Carlos, Geovana, Estagiario de Comunicacao e Marca, Viviane, Luciano Primo Dev e os demais devs/moderadores ativos).
+- **Para que serve:** alinhamento amplo, avisos gerais, repasse de decisoes do Conselho, divulgacao interna de eventos, aulas e parcerias, troca entre areas e visibilidade da operacao para quem nao esta no Nucleo Operacional.
+- **Tom:** volume medio. E o canal de "todo mundo sabe o que esta rolando".
+- **Regra:** nao usar para decisao - decisao pequena fica no Nucleo Operacional; estrutural sobe pro Conselho.
+
+### 4. Grupo Liderancas Regionais + Conselho
 
 - **Quem entra:** Conselho Central (Lucas, Matheus, Carlos, Lyssa) e os owners de cada Nucleo Regional, conforme forem sendo formados.
 - **Para que serve:** alinhamento entre Central e Nucleos Regionais, padronizacao de praticas, calendario nacional, troca de aprendizados regionais e encaminhamento de conflitos locais.
