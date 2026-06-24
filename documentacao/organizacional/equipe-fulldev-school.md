@@ -25,8 +25,8 @@ A FullDev School deve operar com responsabilidades claras, mesmo quando uma mesm
 | Tecnico / Plataforma da School | Carlos | Transmissao, Discord, YouTube, gravacoes, automacoes e ferramentas de aula. |
 | Conteudo e Presenca Publica da School | Luciano Primo Dev | Apoia narrativa publica da School: gera conteudo derivado das aulas, amplifica chamadas e resultados nas redes e em canais proprios. Nao e a unica voz da FullDev. |
 | Hosts de aula | Pool rotativo (Luciano Primo Dev como um dos hosts; outros a definir) | Abrem transmissao, apresentam instrutores e conduzem dinamica ao vivo. Funcao deliberadamente rotativa para a FullDev nao ficar com a cara de uma so pessoa. |
-| Coordenacao pedagogica | A definir | Trilhas, ementas, calendario, criterios pedagogicos e qualidade das aulas. |
-| Relacionamento academico | A definir | Contato com PUC Minas, extensionistas, professores e coordenadores academicos. |
+| Coordenacao pedagogica | Professora Viviane | Trilhas, ementas, calendario, criterios pedagogicos e qualidade das aulas. |
+| Relacionamento academico | Lucas Pedro | Contato com PUC Minas, extensionistas, professores e coordenadores academicos. |
 | Instrutores | A definir | Ministram aulas, oficinas, trilhas e mentorias. |
 | Suporte aos alunos | A definir | Acolhe participantes, tira duvidas operacionais e coleta feedbacks. |
 | Comunicacao da School | Estagiario da PUC (via Central), com apoio de Luciano em conteudo/presenca publica | Divulga aulas, calendario, chamadas, certificados, resultados e materiais. |
@@ -35,7 +35,7 @@ Uma mesma pessoa pode acumular mais de uma funcao, mas o nome precisa estar regi
 
 ### Voz decisiva da equipe da School
 
-Todos os membros fixos da equipe da FullDev School (atualmente Lucas Pedro, Hernando, Carlos e Luciano Primo Dev) tem voz decisiva sobre o projeto. Isso significa:
+Todos os membros fixos da equipe da FullDev School (atualmente Lucas Pedro, Hernando, Carlos, Luciano Primo Dev e Professora Viviane) tem voz decisiva sobre o projeto. Isso significa:
 
 - Podem dar palpites em qualquer area da School, mesmo fora da sua funcao principal.
 - Participam de decisoes sobre trilhas, parceiros, calendario, formato de aula e prioridades.
@@ -97,17 +97,21 @@ Todos os membros fixos da equipe da FullDev School (atualmente Lucas Pedro, Hern
 - **Como se correlaciona:** trabalha junto com Hosts (pre-aula), com Operacoes (gravacoes para certificados e relatorios), com Comunicacao (cortes e materiais) e com Tecnico/Plataforma da Central (ferramentas comuns).
 - **Exemplo pratico:** dia de aula ao vivo. Carlos abre a transmissao no YouTube, configura o canal de duvidas no Discord, monitora qualidade do stream e, ao final, sobe a gravacao no drive.
 
-### Coordenacao pedagogica (a definir)
+### Coordenacao pedagogica
 
-- **Papel:** organizar trilhas, ementas, calendario, criterios pedagogicos e padroes de qualidade.
-- **O que precisa ser feito:** desenhar trilhas, escolher instrutores, definir avaliacoes, calibrar nivel das aulas, coletar feedback pedagogico e iterar conteudo.
-- **Como se correlaciona:** alimenta Direcao com proposta de trilhas, briefa Instrutores e Hosts, valida material com Comunicacao e usa indicadores entregues por Operacoes.
+- **Responsavel:** Professora Viviane.
+- **Papel:** organizar trilhas, ementas, calendario, criterios pedagogicos e padroes de qualidade da School.
+- **O que precisa ser feito:** desenhar trilhas, escolher e briefar instrutores, definir avaliacoes, calibrar nivel das aulas, coletar feedback pedagogico e iterar conteudo.
+- **Como se correlaciona:** alimenta a Direcao com proposta de trilhas, briefa Instrutores e Hosts, valida material com Comunicacao e usa indicadores entregues por Operacoes (Hernando).
+- **Exemplo pratico:** abertura de uma nova trilha. Viviane monta a ementa, define competencias-alvo, seleciona instrutores e calendario, alinha com Lucas e libera Operacoes para abrir inscricoes.
 
-### Relacionamento academico (a definir)
+### Relacionamento academico
 
-- **Papel:** manter contato com PUC Minas, professores, extensionistas e coordenadores academicos.
-- **O que precisa ser feito:** acompanhar projeto de extensao, formalizar documentos academicos, articular professores convidados e sustentar a relacao institucional.
-- **Como se correlaciona:** trabalha em par com Parcerias educacionais (vertente academica) e com Direcao em decisoes que envolvem universidades.
+- **Responsavel:** Lucas Pedro.
+- **Papel:** manter contato institucional com PUC Minas, professores, extensionistas e coordenadores academicos.
+- **O que precisa ser feito:** acompanhar o projeto de extensao, formalizar documentos academicos, articular professores convidados, sustentar a relacao institucional e abrir caminho para novos convenios.
+- **Como se correlaciona:** trabalha em par com Coordenacao Pedagogica (Viviane) em decisoes que envolvem professores e curriculo, com Parcerias educacionais (decisao coletiva) na vertente academica e com o Conselho Central em formalizacoes institucionais.
+- **Exemplo pratico:** a PUC Minas propoe ampliar o projeto de extensao para uma nova turma. Lucas conduz a conversa institucional, alinha com Viviane a viabilidade pedagogica e leva ao Conselho para formalizar.
 
 ### Instrutores e Suporte aos alunos (a definir)
 
@@ -145,8 +149,6 @@ Todos os membros fixos da equipe da FullDev School (atualmente Lucas Pedro, Hern
 ## Pendencias
 
 - Avaliar, depois de algumas rodadas, se Parcerias educacionais precisa de responsavel unico ou continua como decisao coletiva.
-- Definir Coordenacao Pedagogica fixa.
-- Definir responsavel por Relacionamento academico (PUC Minas e extensionistas).
 - Formar quadro de Instrutores recorrentes.
 - Formar pool de Hosts de aula adicionais para revezamento (alem de Luciano).
 - Definir responsavel por Suporte aos alunos.
