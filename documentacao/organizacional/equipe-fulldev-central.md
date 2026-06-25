@@ -65,6 +65,7 @@ Esta secao descreve, para cada area, qual e o papel central, o que precisa ser f
 
 - **Composicao atual:** Lucas Pedro (fundador), Matheus Braz (decisor na ausencia do fundador e voz da Comunidade WhatsApp), Carlos (Tech Advisor) e Lyssa (Eventos).
 - **Por que essa composicao:** combina visao estrategica (Lucas), continuidade em ausencias (Matheus), criterio tecnico em decisoes de plataforma e investimento (Carlos) e a frente que mais demanda decisao rapida sobre custo, calendario e patrocinio (Lyssa). Mantem o conselho enxuto para decidir rapido.
+- **Mudanca registrada:** os heads de Queens of Deploy e RainbowStack participavam do Conselho ate aqui. A partir desta decisao, essas comunidades passam a ser tratadas como Comunidades Parceiras (independentes), e seus heads nao tem mais cadeira fixa no Conselho. Detalhes em `comunidades-parceiras.md`.
 - **Papel:** orgao de decisao colegiada que prioriza frentes, valida decisoes estruturais e destrava operacao.
 - **O que precisa ser feito:** reunioes recorrentes, definicao de prioridades do trimestre, aprovacao de parcerias e patrocinios, acompanhamento de indicadores e resolucao de conflitos entre areas.
 - **Como se correlaciona:** recebe demandas e bloqueios de todas as areas, aprova movimentos de Parcerias, Eventos e School, e garante que nenhuma frente seja aberta sem dono. Hernando (Operacoes), Viviane (Coordenacao Pedagogica) e Joao (Discord) reportam indicadores e propostas ao Conselho sem cadeira fixa; Joao e convocado sempre que o tema for relativo a comunidade Discord.

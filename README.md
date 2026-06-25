@@ -33,16 +33,17 @@ A FullDev é uma comunidade criada por desenvolvedores para desenvolvedores, com
 4. [Equipe FullDev Central](documentacao/organizacional/equipe-fulldev-central.md)
 5. [Equipe FullDev School](documentacao/organizacional/equipe-fulldev-school.md)
 6. [Estratégia do Discord](documentacao/organizacional/estrategia-discord.md)
-7. [Modelo de Governança](documentacao/organizacional/governanca.md)
-8. [Código de Conduta](documentacao/organizacional/codigo-de-conduta.md)
-9. [Manual dos Líderes Regionais](documentacao/organizacional/manual-lideres-regionais.md)
-10. [Criação de Núcleos Regionais](documentacao/organizacional/criacao-de-nucleos-regionais.md)
-11. [Portfólio Atual e Status dos Projetos](documentacao/organizacional/portfolio-atual.md)
-12. [FullDev School e Projeto de Extensão PUC Minas](documentacao/organizacional/fulldev-school-projeto-extensao.md)
-13. [Roteiro de Perguntas e Decisões](documentacao/organizacional/roteiro-perguntas-decisoes.md)
-14. [Políticas de Eventos, Parcerias e Patrocínio](documentacao/organizacional/politicas-eventos-parcerias-patrocinio.md)
-15. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
-16. [Tomada de Decisão e Escalabilidade](documentacao/organizacional/decisao-escalabilidade.md)
+7. [Comunidades Parceiras](documentacao/organizacional/comunidades-parceiras.md)
+8. [Modelo de Governança](documentacao/organizacional/governanca.md)
+9. [Código de Conduta](documentacao/organizacional/codigo-de-conduta.md)
+10. [Manual dos Líderes Regionais](documentacao/organizacional/manual-lideres-regionais.md)
+11. [Criação de Núcleos Regionais](documentacao/organizacional/criacao-de-nucleos-regionais.md)
+12. [Portfólio Atual e Status dos Projetos](documentacao/organizacional/portfolio-atual.md)
+13. [FullDev School e Projeto de Extensão PUC Minas](documentacao/organizacional/fulldev-school-projeto-extensao.md)
+14. [Roteiro de Perguntas e Decisões](documentacao/organizacional/roteiro-perguntas-decisoes.md)
+15. [Políticas de Eventos, Parcerias e Patrocínio](documentacao/organizacional/politicas-eventos-parcerias-patrocinio.md)
+16. [Playbook Operacional e Comunicação Interna](documentacao/organizacional/playbook-operacional-comunicacao.md)
+17. [Tomada de Decisão e Escalabilidade](documentacao/organizacional/decisao-escalabilidade.md)
 
 ## Equipe atual da FullDev Central
 
@@ -83,9 +84,16 @@ Estas iniciativas aparecem no histórico do repositório, mas precisam de valida
 | Projeto | Status | Documentação |
 | --- | --- | --- |
 | FullDev Games | Parado | [Abrir documentação](documentacao/fullDev-Games/readme.md) |
-| CodeQueens | Não confirmado como ativo | Sem documento próprio no repositório |
-| RainbowStack | Não confirmado como ativo | Sem documento próprio no repositório |
 | FullDev Strong | Parado | Sem documento próprio no repositório |
+
+### Comunidades Parceiras
+
+Comunidades independentes, com governança própria, que mantêm acordo de cooperação com a FullDev. Não são frentes da FullDev. Detalhes em [comunidades-parceiras.md](documentacao/organizacional/comunidades-parceiras.md).
+
+| Comunidade | Status | Observação |
+| --- | --- | --- |
+| Queens of Deploy (historicamente CodeQueens) | Comunidade Parceira | Lideranças não compõem o Conselho Central. |
+| RainbowStack | Comunidade Parceira | Lideranças não compõem o Conselho Central. |
 
 ### Projetos históricos
 

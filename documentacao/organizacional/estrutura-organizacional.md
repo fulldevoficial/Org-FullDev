@@ -24,12 +24,13 @@ FullDev Central
 |-- Produtos da Central
 |   `-- FullDev School
 |-- Projetos e Subcomunidades
-|   |-- CodeQueens
-|   |-- RainbowStack
 |   `-- Outros projetos aprovados
 |-- Projetos Parados
 |   |-- FullDev Strong
 |   `-- FullDev Games
+|-- Comunidades Parceiras (independentes, com acordo de cooperacao)
+|   |-- Queens of Deploy (historicamente CodeQueens)
+|   `-- RainbowStack
 `-- Empresas Parceiras
 ```
 

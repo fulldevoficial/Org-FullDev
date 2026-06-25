@@ -15,8 +15,8 @@ Os projetos desativados ficam arquivados em `documentacao/projetos inativos/` pa
 | FullDev Meruem | Desativado | Deve permanecer como registro historico. |
 | FullDev Online | Desativado | Documentos de plataforma ficam como historico de produto, nao como roadmap ativo. |
 | FullDev Games | Parado | O repositorio tem proposta de MVP, mas a iniciativa esta parada no momento. |
-| CodeQueens | Nao confirmado como ativo | Citado no historico; precisa de validacao de continuidade. |
-| RainbowStack | Nao confirmado como ativo | Citado no historico; precisa de validacao de continuidade. |
+| Queens of Deploy (historicamente CodeQueens) | Comunidade Parceira | Comunidade independente. Detalhes em `comunidades-parceiras.md`. Nao e frente da FullDev. |
+| RainbowStack | Comunidade Parceira | Comunidade independente. Detalhes em `comunidades-parceiras.md`. Nao e frente da FullDev. |
 | FullDev Strong | Parado | Citado no historico; a iniciativa esta parada no momento. |
 
 ## Recomendacao de gestao de portfolio
