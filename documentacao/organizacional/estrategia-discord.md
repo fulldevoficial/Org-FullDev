@@ -56,9 +56,9 @@ Joao e o responsavel oficial pelo Discord, mas nao consegue sustentar a rede soz
 
 Esse time amplia o "olho" no servidor e cria sucessao - se Joao precisar sair temporariamente, o Discord continua.
 
-### 3. Automacao e integracao (Tecnico / Plataforma)
+### 3. Automacao e integracao (plataforma do Discord)
 
-Carlos, como Tech Advisor, lidera a camada tecnica do Discord. Pontos minimos:
+Joao, como responsavel pela Comunidade Discord, lidera a camada tecnica e operacional do servidor. Carlos atua como Tech Advisor consultivo quando necessario (decisoes de stack, integracao com outras ferramentas da FullDev), mas a plataforma do Discord e responsabilidade do Joao. Pontos minimos:
 
 - **Boas-vindas automatica** com bot: mensagem padrao, regras, link para canais principais e atribuicao de cargo inicial.
 - **Self-assign de cargos por interesse**: bot que permite ao membro escolher cargos (back, front, data, mobile, devops, design, carreira, eventos). Permite mencionar grupos especificos sem usar @everyone.
@@ -95,7 +95,7 @@ Base inicial, ajustavel pelo time de moderacao:
 - **Comunidade WhatsApp:** divulga rituais do Discord e leva membros engajados para la. Mods de WhatsApp e Discord trocam contexto via grupo do Nucleo Operacional.
 - **Comunicacao e Marca:** divulga rituais nos canais publicos, prepara material para AMAs e mantem tom institucional.
 - **FullDev School:** usa o Discord como sala de aula viva (canal de voz + canal de duvidas) e como repositorio de gravacoes e materiais.
-- **Tecnico / Plataforma (Carlos):** sustenta bots, automacoes, integracoes e seguranca do servidor.
+- **Plataforma do Discord (Joao):** sustenta bots, automacoes, integracoes e seguranca do servidor; Carlos atua como Tech Advisor consultivo.
 - **Eventos:** rituais recorrentes do Discord aparecem no calendario geral; eventos externos da FullDev tem canal de cobertura no Discord.
 - **Conselho Central:** Joao reporta indicadores e propoe mudancas estruturais. Decisoes que impactam marca, regras ou novos canais oficiais passam pelo Conselho.
 
@@ -115,7 +115,7 @@ Operacoes (Hernando) consolida o relatorio mensal junto com Joao.
 1. **Validar posicionamento** (Discord como lar tecnico) com o Conselho.
 2. **Definir o primeiro ritual** (sugestao: noite de estudo semanal) e rodar por 4 semanas para testar cadencia.
 3. **Recrutar 2 mods adicionais** entre os membros mais engajados.
-4. **Configurar boas-vindas e self-assign de cargos** com Carlos.
+4. **Configurar boas-vindas e self-assign de cargos**, conduzido por Joao com Tech Advisor (Carlos) como consultor.
 5. **Definir indicadores e responsavel pelo relatorio mensal**.
 6. **Reavaliar em 60 dias** se a estrategia esta sustentando movimento ou precisa pivotar.
 
