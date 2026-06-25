@@ -32,7 +32,6 @@ Toda funcao precisa ter:
 | Operacoes | Hernando | Processos, documentos, calendario, atas, checklists, indicadores, acessos e organizacao interna. |
 | Tecnico / Plataforma | Inteligencia artificial, Carlos (Tech Advisor), Joao | Site, pagina de links, automacoes, ferramentas, suporte tecnico, infraestrutura e produtos digitais. |
 | Financeiro / Administrativo | Sem responsavel definido (apoio pontual de Carlos, sem assumir a area) | Registro de custos, apoios, reembolsos, entradas, brindes, ingressos e prestacao de contas. |
-| Nucleo Operacional (membro) | Geovana | Compoe o nucleo que puxa execucao no dia a dia. Funcao especifica na Central a confirmar. |
 
 ## Detalhamento das areas
 
@@ -162,14 +161,14 @@ A comunicacao interna da FullDev acontece principalmente em WhatsApp. Para nao m
 
 ### 2. Grupo Nucleo Operacional
 
-- **Quem entra:** Lucas Pedro, Lyssa, Hernando, Carlos, Matheus Braz, Geovana (e demais nomes que estiverem na linha de frente da operacao).
+- **Quem entra:** Lucas Pedro, Lyssa, Hernando, Carlos, Matheus Braz (e demais nomes que estiverem na linha de frente da operacao).
 - **Para que serve:** coordenacao proxima do dia a dia entre as pessoas que efetivamente puxam frentes. Discute execucao das decisoes do Conselho, destrava bloqueios entre areas, alinha calendario semanal e prepara temas que vao subir para o Conselho.
 - **Tom:** volume medio-alto. E o grupo de trabalho da operacao - decisoes pequenas saem daqui; decisoes estruturais sobem para o Conselho.
 - **Diferenca para o Time Geral:** o Nucleo Operacional e um grupo enxuto de quem opera, nao de quem participa da organizacao em sentido amplo. O Time Geral inclui moderadores e desenvolvedores que nao estao no dia a dia da operacao.
 
 ### 3. Grupo Time Geral FullDev
 
-- **Quem entra:** pessoal da organizacao + moderadores + desenvolvedores envolvidos na FullDev (Lucas, Matheus, Gabu, Joao, Lyssa, Hernando, Carlos, Geovana, Estagiario de Comunicacao e Marca, Viviane, Luciano Primo Dev e os demais devs/moderadores ativos).
+- **Quem entra:** pessoal da organizacao + moderadores + desenvolvedores envolvidos na FullDev (Lucas, Matheus, Gabu, Joao, Lyssa, Hernando, Carlos, Estagiario de Comunicacao e Marca, Viviane, Luciano Primo Dev e os demais devs/moderadores ativos).
 - **Para que serve:** alinhamento amplo, avisos gerais, repasse de decisoes do Conselho, divulgacao interna de eventos, aulas e parcerias, troca entre areas e visibilidade da operacao para quem nao esta no Nucleo Operacional.
 - **Tom:** volume medio. E o canal de "todo mundo sabe o que esta rolando".
 - **Regra:** nao usar para decisao - decisao pequena fica no Nucleo Operacional; estrutural sobe pro Conselho.
